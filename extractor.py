@@ -2,6 +2,11 @@ import sys
 import re
 import glob
 
+from trie import Trie
+
+#Food afjectives file name
+foodAdj_file = 'foodAdjectives.txt'
+
 class Example:
     P_PREFIX = '<ptag>'
     P_SUFFIX = '</ptag>'
@@ -13,8 +18,8 @@ class Example:
     def __init__(self):
         self.words = []
         self.plabels = []
-        self.tag_dict = {}
         self.nlabels = []
+        self.tag_dict = {}
 
     def parseLine(self, line):
         line = line.strip()
@@ -23,7 +28,7 @@ class Example:
             line = re.sub(Example.P_RE, ' $# ', line)
             for idx, plabel in enumerate(self.plabels):
                 self.plabels[idx] = plabel.replace(Example.P_PREFIX, '').replace(Example.P_SUFFIX, '').strip()
-
+        
         self.nlabels = re.findall(Example.N_RE, line)
         if len(self.nlabels) > 0:
             line = re.sub(Example.N_RE, ' $@ ', line)
@@ -47,6 +52,7 @@ class Example:
                     self.tag_dict[i] = self.nlabels[nlabel_ctr]
                     nlabel_ctr+=1
             print self.tag_dict
+
 
     def containsTag(self):
         if (len(self.plabels) > 0 or len(self.nlabels) > 0):
@@ -84,10 +90,14 @@ class Example:
     def evaluateFeature1(self, index):
         return False
 
+    def evaluateFeature11(self,index, trie):
+        #print str(index) + " and dict " + str(self.tag_dict)
+        return trie.search(self.tag_dict[index])
+
 
 class FeatureSet:
     def __init__(self):
-        self.values = [0,0,0, 0,0,0, 0,0,0, 0]
+        self.values = [0,0,0, 0,0,0, 0,0,0, 0,0]
 
     def __str__(self):
         return ' '.join(str(x) for x in self.values)
@@ -105,13 +115,27 @@ class DataSet:
         self.exList = []
         self.featuresList = []
         self.outputList = []
+        self.adjTrie = Trie()
+        with open(foodAdj_file) as f:
+            for line in f:
+                if len(line) > 2:
+                    print "l" + line
+                    self.adjTrie.insert(line.rstrip().lower())
+        print self.adjTrie.get_all()
+
+
+
     
     def insertExample(self, example, idx):
         fs = FeatureSet()
         value = example.evaluateFeature5(idx)
-        
         if value:
             fs.setFeatureValue(5,1)
+        print fs
+
+        value = example.evaluateFeature11(idx,self.adjTrie)
+        if value:
+            fs.setFeatureValue(11,1)
         print fs
         self.exList.append(example)
         self.featuresList.append(fs)
@@ -142,6 +166,8 @@ class FileReader:
             index = -2
             while(index != -1):
                 index = ex.getNextTag(index)
+                if (index == -1): 
+                    break
                 self.dataSet.insertExample(ex, index)
             #print i
 
