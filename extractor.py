@@ -141,7 +141,7 @@ class Example:
         if((index + 1) in range(len(self.words))):
             if(self.words[index + 1].lower() == 'with'):
                 boolResult = True
-                print str(self.words)
+                #print str(self.words)
 
         return boolResult
 
@@ -152,13 +152,29 @@ class Example:
         else:
             return False
 
+    #Prefix is article
+    def evaluateFeature8(self, index):
+        boolResult = False 
+        listArticles = ['a','an','the']
+        strVal = ""
+        if (index-1) in self.tag_dict:
+            strVal = self.tag_dict[index-1].lower()
+        else:
+            if((index - 1) in range(len(self.words))):
+                strVal = self.words[index - 1].lower()
+        if(strVal) in listArticles:
+            #print " VALUE FOUND IS :  " + strVal
+            boolResult = True 
+        return boolResult       
+
+
     #Prefix is 'with'
     def evaluateFeature9(self, index):
         boolResult = False
         if((index - 1) in range(len(self.words))):
             if(self.words[index - 1].lower() == 'with'):
                 boolResult = True
-                print str(self.words)
+                #print str(self.words)
 
         return boolResult
 
@@ -169,10 +185,52 @@ class Example:
         else:
             return False
 
+    #Is a pronoun
+    def evaluateFeature11(self, index):
+        boolResult = False 
+        listArticles = ['i', 'you', 'he', 'she', 'it', 'we', 'they', 'me', 'him', 'her', 'us', 'them']
+        strVal = ""
+        if index in self.tag_dict:
+            strVal = self.tag_dict[index].lower()
+        if(strVal) in listArticles:
+            #print " VALUE FOUND IS :  " + strVal
+            boolResult = True 
+        return boolResult
+
+    #Prefix is is/was/were/in/to/I/for.
+    def evaluateFeature13(self, index):
+        boolResult = False 
+        listArticles = ['is','was','were','in','to','i','for']
+        strVal = ""
+        if (index-1) in self.tag_dict:
+            strVal = self.tag_dict[index-1].lower()
+        else:
+            if((index - 1) in range(len(self.words))):
+                strVal = self.words[index - 1].lower()
+        if(strVal) in listArticles:
+            #print " PREFIX FOUND IS :  " + strVal
+            boolResult = True 
+        return boolResult
+
+    #Prefix is is/was/were/in/to/I/for.
+    def evaluateFeature15(self, index):
+        boolResult = False 
+        listArticles = ['so', 'very', 'really', 'super', 'painfully', 'only', 'utterly']
+        strVal = ""
+        if (index-1) in self.tag_dict:
+            strVal = self.tag_dict[index-1].lower()
+        else:
+            if((index - 1) in range(len(self.words))):
+                strVal = self.words[index - 1].lower()
+        if(strVal) in listArticles:
+            print " PREFIX FOUND IS :  " + strVal
+            boolResult = True 
+        return boolResult
+
 
 class FeatureSet:
     def __init__(self):
-        self.values = [0,0,0, 0,0,0, 0,0,0, 0,0]
+        self.values = [0,0,0, 0,0,0, 0,0,0, 0,0,0,0]
 
     def __str__(self):
         return ' '.join(str(x) for x in self.values)
@@ -232,9 +290,25 @@ class DataSet:
         if value:
             fs.setFeatureValue(7,1)
 
+        value = example.evaluateFeature8(idx)
+        if value:
+            fs.setFeatureValue(8,1)
+
         value = example.evaluateFeature9(idx)
         if value:
             fs.setFeatureValue(9,1)
+
+        value = example.evaluateFeature11(idx)
+        if value:
+            fs.setFeatureValue(11,1)
+
+        value = example.evaluateFeature13(idx)
+        if value:
+            fs.setFeatureValue(13,1)
+
+        value = example.evaluateFeature15(idx)
+        if value:
+            fs.setFeatureValue(15,1)
         '''value = example.evaluateFeature10(idx)
         if value:
             fs.setFeatureValue(10,1)'''
