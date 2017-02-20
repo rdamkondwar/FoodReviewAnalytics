@@ -265,7 +265,7 @@ class FileReader:
             filefd.close()
             
     def generateDataSet(self):
-        print "current_debug", len(self.exampleList)
+        # print "current_debug", len(self.exampleList)
         for i, ex in enumerate(self.exampleList):
             index = -2
             while(index != -1):
