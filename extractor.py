@@ -12,8 +12,8 @@ class Example:
     P_SUFFIX = '</ptag>'
     N_PREFIX = '<ntag>'
     N_SUFFIX = '</ntag>'
-    P_RE = '<ptag>[a-zA-Z0-9_-]+</ptag>'
-    N_RE = '<ntag>[a-zA-Z0-9_-]+</ntag>'
+    P_RE = '<ptag>[\s+\'a-zA-Z0-9_-]+</ptag>'
+    N_RE = '<ntag>[\s+\'    a-zA-Z0-9_-]+</ntag>'
     
     def __init__(self):
         self.words = []
@@ -90,9 +90,39 @@ class Example:
     def evaluateFeature1(self, index):
         return False
 
-    def evaluateFeature11(self,index, trie):
+    #Suffix is 'with'    
+    def evaluateFeature6(self, index):
+        boolResult = False
+        if((index + 1) in range(len(self.words))):
+            if(self.words[index + 1].lower() == 'with'):
+                boolResult = True
+                print str(self.words)
+
+        return boolResult
+
+    #Number of characters is greater than 2
+    def evaluateFeature7(self, index):
+        if index in self.tag_dict:
+            return (len(self.tag_dict[index]) >= 2)
+        else:
+            return False
+
+    #Prefix is 'with'
+    def evaluateFeature9(self, index):
+        boolResult = False
+        if((index - 1) in range(len(self.words))):
+            if(self.words[index - 1].lower() == 'with'):
+                boolResult = True
+                print str(self.words)
+
+        return boolResult
+
+    def evaluateFeature10(self,index, trie):
         #print str(index) + " and dict " + str(self.tag_dict)
-        return trie.search(self.tag_dict[index])
+        if index in self.tag_dict:
+            return trie.search(self.tag_dict[index].lower())
+        else:
+            return False
 
 
 class FeatureSet:
@@ -131,12 +161,29 @@ class DataSet:
         value = example.evaluateFeature5(idx)
         if value:
             fs.setFeatureValue(5,1)
+        #print fs
+
+        value = example.evaluateFeature10(idx,self.adjTrie)
+        if value:
+            fs.setFeatureValue(10,1)
+        #print fs
+
+        value = example.evaluateFeature6(idx)
+        if value:
+            fs.setFeatureValue(6,1)
+
+        value = example.evaluateFeature7(idx)
+        if value:
+            fs.setFeatureValue(7,1)
+
+        value = example.evaluateFeature9(idx)
+        if value:
+            fs.setFeatureValue(9,1)
+        '''value = example.evaluateFeature10(idx)
+        if value:
+            fs.setFeatureValue(10,1)'''
         print fs
 
-        value = example.evaluateFeature11(idx,self.adjTrie)
-        if value:
-            fs.setFeatureValue(11,1)
-        print fs
         self.exList.append(example)
         self.featuresList.append(fs)
         self.outputList.append(example.getOutputForIndex(idx))
