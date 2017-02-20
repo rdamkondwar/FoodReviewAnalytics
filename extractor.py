@@ -179,10 +179,13 @@ class Example:
 
     def evaluateFeature14(self, index):
         tagValue = self.tag_dict[index]
-        for suffix in ['.', '!', ')']:
-            if (str.endswith(tagValue.lower(), suffix)):
-                return True
+        values = self.words[index-1:index]
 
+        if len(values) > 0:
+            for suffix in ['.', '!', ')']:
+                if (str.endswith(values[0], suffix)):
+                    return True
+        
         return False
 
 
