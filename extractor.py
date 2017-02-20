@@ -185,6 +185,7 @@ class Example:
         else:
             return False
 
+
     #Is a pronoun
     def evaluateFeature11(self, index):
         boolResult = False 
@@ -227,10 +228,29 @@ class Example:
             boolResult = True 
         return boolResult
 
+    def evaluateFeature12(self, index):
+        tagValue = self.tag_dict[index]
+        for suffix in ['king', 'hut', 'house', 'quiznos', 'place']:
+            if (str.endswith(tagValue.lower(), suffix)):
+                return True
+
+        return False
+
+    def evaluateFeature14(self, index):
+        tagValue = self.tag_dict[index]
+        values = self.words[index-1:index]
+
+        if len(values) > 0:
+            for suffix in ['.', '!', ')']:
+                if (str.endswith(values[0], suffix)):
+                    return True
+        
+        return False
+
 
 class FeatureSet:
     def __init__(self):
-        self.values = [0,0,0, 0,0,0, 0,0,0, 0,0,0,0]
+        self.values = [0,0,0, 0,0,0, 0,0,0, 0,0,0, 0,0,0]
 
     def __str__(self):
         return ' '.join(str(x) for x in self.values)
@@ -312,6 +332,15 @@ class DataSet:
         '''value = example.evaluateFeature10(idx)
         if value:
             fs.setFeatureValue(10,1)'''
+
+        value = example.evaluateFeature12(idx)
+        if value:
+            fs.setFeatureValue(12,1)
+            
+        value = example.evaluateFeature14(idx)
+        if value:
+            fs.setFeatureValue(14,1)
+
         print fs
 
         self.exList.append(example)
