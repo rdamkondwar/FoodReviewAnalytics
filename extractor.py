@@ -40,8 +40,8 @@ class Example:
         # Remove empty strings
         if (self.containsTag()):
             self.words = filter(None, tags)
-            print 'plabels=', self.plabels
-            print 'nlabels=', self.nlabels
+            #print 'plabels=', self.plabels
+            #print 'nlabels=', self.nlabels
             plabel_ctr = 0
             nlabel_ctr = 0
             for i, w in enumerate(self.words):
@@ -51,7 +51,7 @@ class Example:
                 elif w == '$@':
                     self.tag_dict[i] = self.nlabels[nlabel_ctr]
                     nlabel_ctr+=1
-            print self.tag_dict
+            #print self.tag_dict
 
 
     def containsTag(self):
@@ -224,7 +224,7 @@ class Example:
             if((index - 1) in range(len(self.words))):
                 strVal = self.words[index - 1].lower()
         if(strVal) in listArticles:
-            print " PREFIX FOUND IS :  " + strVal
+            #print " PREFIX FOUND IS :  " + strVal
             boolResult = True 
         return boolResult
 
@@ -238,7 +238,7 @@ class Example:
 
     def evaluateFeature14(self, index):
         tagValue = self.tag_dict[index]
-        values = self.words[index-1:index]
+        values = self.words[index+1:index+2]
 
         if len(values) > 0:
             for suffix in ['.', '!', ')']:
@@ -272,9 +272,9 @@ class DataSet:
         with open(foodAdj_file) as f:
             for line in f:
                 if len(line) > 2:
-                    print "l" + line
+                    #print "l" + line
                     self.adjTrie.insert(line.rstrip().lower())
-        print self.adjTrie.get_all()
+        #print self.adjTrie.get_all()
 
     def insertExample(self, example, idx):
         fs = FeatureSet()
@@ -341,7 +341,7 @@ class DataSet:
         if value:
             fs.setFeatureValue(14,1)
 
-        print fs
+        print fs, example.getOutputForIndex(idx)
 
         self.exList.append(example)
         self.featuresList.append(fs)
@@ -356,7 +356,7 @@ class FileReader:
         files = glob.glob(directoryName+'/*')
         filecount = 1
         for file in files:
-            print file
+            #print file
             filefd = open(file, 'r')
             for r in filefd:
                 r = r.strip()
