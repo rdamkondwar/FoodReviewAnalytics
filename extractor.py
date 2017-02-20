@@ -78,6 +78,54 @@ class Example:
             #i+=1
         return -1
 
+    def evaluateFeature1(self, index, trie):
+        tagType = self.words[index]
+        prevElements = self.words[index-1:index]
+        #print prevElements
+        if (len(prevElements) > 0):
+            return trie.search(prevElements[0])
+
+        return False
+
+    def evaluateFeature2(self, index):
+        tagType = self.words[index]
+
+        prevElements = self.words[index-2:index]
+        
+        if (len(prevElements) == 2):
+            if prevElements[1] == ',' and (index-2) in self.tag_dict:
+                #print "current_debug: ", prevElements
+                return True
+
+        nextElements = self.words[index+1:index+3]
+        
+        if (len(prevElements) == 2):
+            if prevElements[0] == ',' and (index+2) in self.tag_dict:
+                #print "current_debug: ", nextElements
+                return True
+
+        return False
+
+    def evaluateFeature3(self, index):
+        tagType = self.words[index]
+
+        elements = self.words[index-1:index+2]
+        
+        if (len(elements) == 3):
+            if elements[0].lower() == 'their' and elements[2].lower() in ['is', 'was', 'were']:
+                return True
+
+        return False
+
+    def evaluateFeature4(self, index):
+        tagType = self.words[index]
+        prevElements = self.words[index-1:index]
+        #print prevElements
+        if (len(prevElements) > 0):
+            if(prevElements[0].lower() in ['chose', 'had', 'choose']):
+                return True
+        return False
+
     def evaluateFeature5(self, index):
         tagType = self.words[index]
         prevElements = self.words[index-2:index]
@@ -85,9 +133,6 @@ class Example:
         if (len(prevElements) > 0):
             if('ordered' in prevElements):
                 return True
-        return False
-
-    def evaluateFeature1(self, index):
         return False
 
     #Suffix is 'with'    
@@ -153,20 +198,31 @@ class DataSet:
                     self.adjTrie.insert(line.rstrip().lower())
         print self.adjTrie.get_all()
 
-
-
-    
     def insertExample(self, example, idx):
         fs = FeatureSet()
+        value = example.evaluateFeature1(idx, self.adjTrie)
+        if value:
+            fs.setFeatureValue(1,1)
+
+        value = example.evaluateFeature2(idx)
+        if value:
+            fs.setFeatureValue(2,1)
+
+        value = example.evaluateFeature3(idx)
+        if value:
+            fs.setFeatureValue(3,1)
+
+        value = example.evaluateFeature4(idx)
+        if value:
+            fs.setFeatureValue(4,1)
+
         value = example.evaluateFeature5(idx)
         if value:
             fs.setFeatureValue(5,1)
-        #print fs
 
         value = example.evaluateFeature10(idx,self.adjTrie)
         if value:
             fs.setFeatureValue(10,1)
-        #print fs
 
         value = example.evaluateFeature6(idx)
         if value:
@@ -209,6 +265,7 @@ class FileReader:
             filefd.close()
             
     def generateDataSet(self):
+        print "current_debug", len(self.exampleList)
         for i, ex in enumerate(self.exampleList):
             index = -2
             while(index != -1):
