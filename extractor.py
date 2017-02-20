@@ -169,10 +169,17 @@ class Example:
         else:
             return False
 
+    def evaluateFeature12(self, index):
+        tagValue = self.tag_dict[index]
+        for suffix in ['king', 'hut', 'house', 'quiznos', 'place']:
+            if (str.endswith(tagValue.lower(), suffix)):
+                return True
+
+        return False
 
 class FeatureSet:
     def __init__(self):
-        self.values = [0,0,0, 0,0,0, 0,0,0, 0,0]
+        self.values = [0,0,0, 0,0,0, 0,0,0, 0,0,0, 0,0,0]
 
     def __str__(self):
         return ' '.join(str(x) for x in self.values)
@@ -238,6 +245,11 @@ class DataSet:
         '''value = example.evaluateFeature10(idx)
         if value:
             fs.setFeatureValue(10,1)'''
+
+        value = example.evaluateFeature12(idx)
+        if value:
+            fs.setFeatureValue(12,1)
+
         print fs
 
         self.exList.append(example)
