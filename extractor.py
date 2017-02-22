@@ -1,6 +1,7 @@
 import sys
 import re
 import glob
+import os
 
 from trie import Trie
 
@@ -58,6 +59,10 @@ class Example:
         if (len(self.plabels) > 0 or len(self.nlabels) > 0):
             return True
         return False
+
+    def getTagName(self, index):
+        #print self.tag_dict
+        return self.tag_dict[index]
 
     def getOutputForIndex(self, index):
         if(self.words[index] == '$#'):
@@ -269,6 +274,7 @@ class DataSet:
         self.featuresList = []
         self.outputList = []
         self.adjTrie = Trie()
+        #self.labelList = []
         with open(foodAdj_file) as f:
             for line in f:
                 if len(line) > 2:
@@ -276,7 +282,7 @@ class DataSet:
                     self.adjTrie.insert(line.rstrip().lower())
         #print self.adjTrie.get_all()
 
-    def insertExample(self, example, idx):
+    def insertExample(self, example, idx, fileName):
         fs = FeatureSet()
         value = example.evaluateFeature1(idx, self.adjTrie)
         if value:
@@ -341,16 +347,18 @@ class DataSet:
         if value:
             fs.setFeatureValue(14,1)
 
-        print fs, example.getOutputForIndex(idx)
+        print fs, example.getOutputForIndex(idx), example.getTagName(idx), os.path.basename(fileName)
 
         self.exList.append(example)
         self.featuresList.append(fs)
         self.outputList.append(example.getOutputForIndex(idx))
+        #self.labelList.append(example.getTagName())
 
 class FileReader:
     def __init__(self):
         self.exampleList = []
         self.dataSet = DataSet('train')
+        self.fileNames = []
 
     def readExamples(self, directoryName):
         files = glob.glob(directoryName+'/*')
@@ -365,6 +373,7 @@ class FileReader:
                     e.parseLine(r)
                     if(e.containsTag()):
                         self.exampleList.append(e)
+                        self.fileNames.append(filefd.name)
             filefd.close()
             
     def generateDataSet(self):
@@ -375,7 +384,7 @@ class FileReader:
                 index = ex.getNextTag(index)
                 if (index == -1): 
                     break
-                self.dataSet.insertExample(ex, index)
+                self.dataSet.insertExample(ex, index, self.fileNames[i])
             #print i
 
 if __name__ == '__main__':

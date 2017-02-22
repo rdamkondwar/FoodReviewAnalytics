@@ -1,0 +1,2794 @@
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 good 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 1.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 annoying 1.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 grill 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burgers 1.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 hamburgers 1.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese fries 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 hot wings 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 This 1.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauce 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauce 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 greatly 1.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 They 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 items 1.txt
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 I 1.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 onion rings 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 dip 1.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Rueben sandwich 1.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salads 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 hamburgers 1.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 smoke house bacon 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 potato french fries 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soda refills 1.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 1.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sashimi 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sushi 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Sushi 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 plaza 103.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 small 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sushi 103.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sushi 103.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 fresh 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sashimi 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauce 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rice 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salmon 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 crispy 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 tangy sauce 103.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 103.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 ginger 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 noodle 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soups 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 flavor 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Korean 103.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 small 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 103.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 little 103.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fish 103.txt
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 a 103.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sushi 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sushi 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 vegetable maki rolls 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 slimy 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 carrots 103.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 It 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 vegetable roll 103.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 asparagus 103.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 they 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 carrots 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sushi 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 asparagus 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 carrots 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 people 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 dumplings 103.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 shumai 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 pre-made 103.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 frozen 103.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 soup 103.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 rip-off 103.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 my 104.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 Delicious 104.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 shrimp patties 104.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 custard tarts 104.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 104.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 insane 104.txt
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 I 104.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 my 104.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 custard tarts 104.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 this 104.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 liked 104.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 indoor 104.txt
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 I 104.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 tarts 104.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tarts 104.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 crispy 104.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 chewy 104.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 custard 104.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 creamy 104.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 1 0 1 shrimp patty 104.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 tasty 104.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 greasy 104.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 the 104.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 for 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 about 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 the 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Vegas 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 108.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 tasty 108.txt
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 I 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 good 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 108.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 long 108.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 tasty 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 located 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 the 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 fun 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 for 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 LV 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 tonight 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 get 108.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 tasty 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Steak 108.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Nachos 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 friendly 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 back 108.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 huge 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 uncomfortable 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beers 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 cheap 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 go 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 was 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 my 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 their 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 cheap 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 hang 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 eat 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 go 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 always 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 places 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 did 108.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 ribs 108.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 fried chicken 108.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 ribs 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauces 108.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 ribs 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 mac n cheese 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 chicago 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 fried chicken 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 ribs 108.txt
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 a 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 listen 108.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 me 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 back 108.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 this 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 do 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 cousin 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 The 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 nice 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 love 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 110.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fish 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tacos 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 110.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 tasty 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 awesome 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 nice 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 dip 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 good 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak wrap 110.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Thai curry wings 110.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 wrap 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 110.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 honey bbq wings 110.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Thai curry 110.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Indian curry 110.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 sauce 110.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 disappointing 110.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 breeze 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 be 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 were 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 116.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 milkshake 116.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 burger 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 mustard and pickles 116.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fries 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 116.txt
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 a 116.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 hot 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 116.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 me 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 not 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 love 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 cheese 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chili fries 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 hot dogs 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 your 116.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 burger 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soda 116.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 milkshake 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 buying 116.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 my 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 stepped 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 the 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 figure 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 eat 119.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Pad Thai's noodles 119.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 1 0 0 delicious 119.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Chicken 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 Peanut 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 sauce 119.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 spicy 119.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 119.txt
+0 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 probably 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 planning 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 absolutely 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 soup 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wine 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 no 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Beef 119.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 Spicy 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 Beef Noodle Soup 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 119.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fried rice 119.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 fair 119.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 plain rice 119.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 excited 12.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 new 12.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 reasonable 12.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Eggs 12.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 items 12.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 good 12.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 quality 12.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 full 12.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 french toast 12.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 cold 12.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bread 12.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 french toast 12.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 hash browns 12.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 salty 12.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pancakes 12.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 mediocre 12.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 disappointed 12.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 french toast 12.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pizza 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 123.txt
+0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 place 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 123.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 nut 123.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 pizza 123.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 pizza 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 nut 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 calling 123.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pizza 123.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pizza 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese 123.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 marinara 123.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tomatoes 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pizza 123.txt
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 a 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauce 123.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 delight 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pepperoni 123.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 cheese 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 pizza 123.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken parm 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 broccoli rabe 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sandwich 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 BROCCOLI 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 broccoli 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 broccoli rabe 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 chicken parm sandwich 123.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 123.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 good 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 clean 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pizza 123.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 new 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 excited 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 park 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 coffee 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 coffee 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tea 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Tempe 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chai 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 infusion 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Coffee 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Tea 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Grand Central 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 up 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Awesome 124.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 coffee 124.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 wine 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 great 124.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 already 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Lawrenceville 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 be 125.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 sticky 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 hold 125.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 They 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Lawrenceville 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 on 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 order 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 one 125.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fluffy 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 waffle 125.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken thigh 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 just 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 pull 125.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sandwich 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pork 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 ham 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese 125.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 lemon aioli 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauce 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 heaven 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Beer 125.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 on 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 what 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Phoenix 129.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 chicken 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sandwich 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 clean 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 awkward 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Sandwich 129.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 pleasant 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 the 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Walgreens 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 129.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 breakfast 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat toast 13.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 WAFFLES 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 waffles 13.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 waffle 13.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 waffle 13.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 waffle 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 hashbrowns 13.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 mushrooms 13.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 waffle 13.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 waffle 13.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 fluffy 13.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 hashbrowns 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 crisped 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 potato 13.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 greasy 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 waffle 13.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 clean 13.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 waffle 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 slowly 13.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 gastronomic 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 steak 13.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 sirloin 13.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 hashbrowns 13.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 mushrooms 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 toast 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 coffee 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 waffle 13.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 waffle 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 waffle 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 waffle 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 waffles 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 waffle 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 waffle 13.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 try 135.txt
+0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 BBQ Pulled Pork sandwich 135.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 best 135.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 pulled pork sandwich 135.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 sandwich 135.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 135.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 135.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 135.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 BBQ Pulled Pork sandwich 135.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 good 135.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 meat 135.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 COLD 135.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauce 135.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 cold 135.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 135.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 135.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 small 135.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 nice 135.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 mac n' cheese 135.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 garlicy 135.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 potato salad 135.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pulled pork sandwich 135.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 go 135.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 brisket and creamed corn 135.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 go 136.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 perfectly 136.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 fast 136.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 purchase 136.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Genius 136.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 136.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wine 136.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 chicken teriyaki bowl 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauce 139.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 chicken 139.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 1 0 1 wonton soup 139.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 shrimp 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cabbage 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wonton soup 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 139.txt
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 pot stickers 139.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 eggplant and tofu entree 139.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 egg drop soup 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 enormous 139.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 quickly 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 shrimp 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 139.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 shrimp chop suey 139.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 shrimp 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 sauce 139.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 you 139.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 noodles 139.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 noodles 139.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 soup 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 egg drop soup 139.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 soup 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 won ton 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 hot and sour soup 139.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 shrimp chop suey 139.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 fried rice 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 chow mien 139.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 shrimps 139.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 broccoli 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 mushrooms 139.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fried rice 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 fried rice 139.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 chow mien 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 Chow Mien 139.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 large 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soup 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 won ton soup 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chow mien 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 great 139.txt
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 a 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Egg Rolls 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Crab Rangoons 139.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soup 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rice 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Chicken 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 Beef Broccoli 139.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 BBQ Pork fried rice 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Egg Flower soup 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 attentive 139.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 cook 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bacon 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 burgers 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bacon 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bacon 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 had 142.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 burger 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 bit 142.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 burger 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 what 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 lunch 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 banana 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pudding 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 milkshake 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burgers 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 chicken strip 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Fries 142.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 be 143.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 sandwich 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 turkey 143.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 asparagus 143.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 mushroom 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 egg white bagel 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 mediocre 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chips 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwiches 143.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 chips 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chips 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 eat 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 turkey 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 143.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 sandwich 143.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 143.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 turkey 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 143.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 chips 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 chips 143.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 her 143.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chips 143.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 turkey 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 143.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 asiago bagel 143.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bagel 143.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 greasy 143.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 write 143.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 potato salad 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 cheap 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 amazing 143.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken 143.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 inform 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bagels 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 around 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bagel 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 ham 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 143.txt
+1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 pastries 143.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 appreciated 143.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 it 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 fun 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Popcorn 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 candy bars 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 the 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 check 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 each 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 beer 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 stars 144.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 delicious 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 beer 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 great 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 front 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 be 144.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 for 147.txt
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 a 147.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pasta 147.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 147.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 147.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 quite 147.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 amusing 147.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 7pm 147.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 147.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 unseasoned 147.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken snitzel 147.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken wings 147.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 several 148.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 148.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 the 148.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 him 148.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 be 148.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 great 148.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 acceptable 148.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 wine 148.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 148.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 here 15.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sandwich 15.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 friendly 15.txt
+0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 pay 15.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 Spinach 15.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 Egg White Wrap 15.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 Delicious 15.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 hot 15.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 15.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 more 15.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Monte Carlo 15.txt
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 I 15.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Japanese 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sashimi 150.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 beef 150.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 coleslaw 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 noodles 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 vegetable tempura 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 be 150.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sushi 150.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 delicious 150.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 tempura shrimp 150.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soup 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 great 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 more 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 nicer 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salmon sushi 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salmon roll 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sushi 150.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 150.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 sauce 150.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 delicious 150.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tuna 150.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tuna roll 150.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 miso soup 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 efficient 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sushi 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 sushi 150.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Squash Soup 150.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 soup 150.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salad 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 avocado 150.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 mango 150.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cherry 150.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tomatoes 150.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 spicy 150.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 tasty 150.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 broccoli 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cauliflower 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 hard 150.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 rice 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 apple 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tea 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 icecream 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 apples 150.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 banana 150.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 okay 150.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 great 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 best 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 great 159.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 you 159.txt
+1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 garlic 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 order 159.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 delicious 159.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken parm 159.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pasta 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 salads 159.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 garlic knots 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pasta 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 disappointed 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 sauce 159.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 chicken parm 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 marinara 159.txt
+0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 cheese ravioli 159.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 meatball 159.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 ravioli 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pasta 159.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 meatball 159.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 meat 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 nice 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 that 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 on 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 flawless 159.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 Beef 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 great 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 bread 159.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 amazing 159.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beef 159.txt
+0 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 tender 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 excited 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 awesome 159.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 East Valley 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 give 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wine 160.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 wine 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 dark 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 uncomfortable 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 slow 160.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 ribs 160.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bruschetta 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 red wine 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 say 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wine 160.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 wine 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 know 160.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 wine 160.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 wine 160.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 wine 160.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 delicious 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 girls 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken satay 160.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 meat 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 great 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 return 160.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cheese 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 160.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 feta 160.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 walnuts 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fruit 160.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 bread 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 being 160.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 grub hub 163.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salad 163.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 great 163.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 annoying 163.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 163.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 amazing 163.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 muffin 163.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 banana 163.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 walnut 163.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cookie 163.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 awesome 163.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 168.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 loud 168.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 pass 168.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 fresh 168.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 noodles 168.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lasagna 168.txt
+0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 chicken parm 168.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 give 168.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 168.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken 168.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwiches 168.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 168.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bread 168.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauce 168.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 calamari 168.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 energetic 168.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 great 168.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 shrimp scampi 168.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 salad 168.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salmon 168.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 lobster ravioli 168.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pollo rosa maria 168.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pasta carrabba's 168.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 calamari 168.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese 168.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pizza 168.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 wait 168.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 least 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 172.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 sausage patties 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 coffee 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pastries 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 chocolate 172.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chocolate 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 excellent 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chocolate 172.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 almond bar 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 keep 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Phoenix 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chocolate 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chocolates 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chocolate 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 ask 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pastries 172.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sausage 172.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 sandwich 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 172.txt
+0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 breakfast 172.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pastry 172.txt
+0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 sandwich roll 172.txt
+0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 sandwiches 172.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bacon 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 almonds 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 egg and mayo 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 coffee 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 coffee 172.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pastries 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 coffee 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pastries 172.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 coffee 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pastries 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 their 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 stew 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 172.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 pastries 172.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pastries 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 flavors 172.txt
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 a 172.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bacon 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Bacon 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 almonds 172.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 egg sandwich 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwiches 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 hamburger 172.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 first 173.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 my 173.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soup 173.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 173.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 rice 173.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Montreal 173.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sushi 173.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Teppanyaki 173.txt
+0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 you 173.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 hilarious 173.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 do 173.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 scallops 173.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 filet mignon 173.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 tasty 173.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 173.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 delicious 173.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 here 173.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 GROSS 20.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 moldy 20.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 biscuit 20.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 her 20.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 all 20.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Downtown Phoenix 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 times 207.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Sea Salt Chips 207.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Turkey Pastrami 207.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 delicious 207.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 pretzel roll 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 green chili 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 207.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 great 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 lemonade 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 excellent 207.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 soft pretzels 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fondue 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 keep 207.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cheese 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lettuce 207.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bread 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 completely 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Chase Field 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 eat 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 great 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 let 207.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 cold 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salads 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 salmon 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salmon 207.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 salad 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salmon 207.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 poutine 21.txt
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 I 21.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 enough 21.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 get 21.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Burger 21.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 there 21.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 poutine 21.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 good 21.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 my 21.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 You 21.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 217.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 actually 217.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 the 217.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 coleslaw 217.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 217.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 delicious 217.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken 217.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 grilled 217.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 amazing 217.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 coleslaw 217.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Verdun 217.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 frozen 217.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cut fries 217.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 217.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 sauce 217.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 traditions 217.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 wings 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wings 218.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 little 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 amazing 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wings 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese steak 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sodas 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese steak 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Montreal 218.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat sandwich 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wings 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 218.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 less 218.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 218.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 wings 218.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 delicious 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 person 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese steak sandwich 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 sauce 218.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 wings 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 218.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fries 218.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 frozen 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 218.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 sauce 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 amazing 218.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Chicago 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 try 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 ariZONA 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 226.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Gyro 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 fries 226.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 gyro 226.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 onions 226.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tomatoes 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauce 226.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 cut fries 226.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fries 226.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 gyro 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Beef 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Beef 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soda 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soda 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 2012 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 this 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Scottsdale 226.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 hot 226.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 delicious 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 226.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salads 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 great 226.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 lettuce 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 awesome 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 good wings 226.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Chicago dogs 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 calzones 226.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Coventry 227.txt
+0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 walking 227.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 227.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 put 227.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 227.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 mind 227.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 eat 227.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 one 227.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 this 228.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 family 228.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Ping 228.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 the 228.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 my 228.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 228.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Singapour noodles 228.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 Breaded seafood 228.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 crispy 228.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 perfectly 228.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 228.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Dairy Queen 230.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 Brownie Sundae 230.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 Peanut Buster parfait 230.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 the 230.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 home 230.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 vanilla ice cream 230.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 brownies 230.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 what 230.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 you 230.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 be 230.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 peanut sundaes 230.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 marshmallow 230.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 on 230.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 good 245.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 enjoyed 245.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salad bar 245.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 tea 245.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 shrimp 245.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salad bar 245.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 steak 245.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 great 245.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 shrimp 245.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salad bar 245.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 again 245.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 California chicken 245.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 245.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 baked potato 245.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 bad 245.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 again 245.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 you 248.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 248.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Paoli 248.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 soup 248.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 great 248.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwiches 248.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 248.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 great 248.txt
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 I 248.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 liked 248.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 good 252.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sushi 252.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 tasty 252.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 be 252.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 raw-fish 252.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 spicy 252.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pork bento 252.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 gyoza 252.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 edamame 252.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 tasty 252.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pork 252.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 rice 252.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 good 252.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 252.txt
+0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 croquette 252.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 lighter 252.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 an 254.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tapas 254.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pork belly bites 254.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pork rinds 254.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 delicious 254.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauce 254.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pork belly bites 254.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rib biscuit 254.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 kim chi 254.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 eggplant 254.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 steak 254.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 not 254.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 ramen 254.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 cauliflower 254.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 great 254.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Scarborough 255.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 quick 255.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Chicken Souvlaki Dinner 255.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 Greek Salad 255.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Rice 255.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 Roasted Potatoes 255.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 about 255.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pita bread 255.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 Souvlaki Dinner 255.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salad 255.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 watery 255.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken 255.txt
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 a 255.txt
+0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 lacking 255.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 potatoes 255.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 fresh 255.txt
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 a 255.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 Garlic Steak Salad 256.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 peach smoothie 256.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 terrific 256.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 town 256.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 garlic steak 256.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 good 256.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sauce 256.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 sauce 256.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 delicious 256.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 friendly 256.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 my 256.txt
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 a 256.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 Garlic Steak 256.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 brown rice 256.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 steak 256.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 brown rice 256.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salad 256.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 rice 256.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 garlic steak 256.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 amazing 256.txt
+0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 chicken 256.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 sauce 256.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 yummy 256.txt
+0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 garlic steak 256.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 delicious 256.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 kimchi 256.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 256.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 asparagus 256.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 salad 256.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 257.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 you 257.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 coffee 257.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tea 257.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 257.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 there 257.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 expensive 257.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 waitrose 257.txt
+1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 tart 257.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Tesco 257.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pak choi 257.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 enoki mushrooms 257.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 blood oranges 257.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 French bread 257.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 croissants 257.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cakes 257.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 so 258.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 see 258.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 put 258.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 fresh 258.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sausages 258.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 flour 258.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 oranges 258.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 avocados 258.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tonic 258.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 milk 258.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 sure 258.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 great 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 overwhelming 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 friendly 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 hang 259.txt
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 a 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 beer 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Charlotte 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 259.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 259.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 you 259.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 saison 259.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 IPA 259.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chocolate stout 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 brown ale 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 really 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chocolate stout 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 brown ale 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 ice cream 259.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 chocolate stout 259.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 and 260.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 biscuits 260.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pasta 260.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 microwave 260.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 juices 260.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 friendly 260.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 attract 260.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Polish chocolate 260.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 264.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 264.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 my 264.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meats 264.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lettuce 264.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tomatoes 264.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 quick 264.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 264.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 Salami sandwich 264.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 sauce 264.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 appealing 264.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 264.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 bowl of chili 264.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 amazing 264.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 the 264.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 where 265.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 meat 265.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 265.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 know 265.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 help 265.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 265.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 lines 265.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Buffalo 266.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 done 266.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 266.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 bread 266.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 unavailable 266.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 deliver 266.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 266.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 milk 266.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 California grill cheese 268.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 roast beef 268.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pastrami turkey sandwich 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 268.txt
+0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 bread 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 late 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 this 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 choose 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Nachos with meat sauce 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 PEI Mussels 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 Vegetable Quesadilla 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Nachos with Meat Sauce 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 great 268.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 cheese 268.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 jalepenos 268.txt
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 I 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 nice 27.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 We 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 promptly 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 their 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 nice 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 great 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 fast 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 great 27.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 meat 27.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 yummy 27.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 meat 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 27.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 me 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 steak 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 steak 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 disappointed 27.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pineapple 27.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cornbread 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 amazing 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 27.txt
+0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 tender 27.txt
+0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 tasty 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 quick 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Salads 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Cheese bread 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 smaller 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sure 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 comfortable 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 eating 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rib 27.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sirloin 27.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bacon 27.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 mignon 27.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 1 garlic steak 27.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 juicy 27.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salad 27.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 mashed potatoes 27.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 corn 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 attentive 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sirloin 27.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 great 27.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 delicious 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 again 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 an 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 construction 27.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 you 27.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Vegas 271.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sushi 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sushi 271.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 snow crab 271.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 snow crab 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 snow crabs 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 can 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 snow crabs 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 snow crabs 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 short ribs 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 green tea ice cream 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fish 271.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sushi 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 271.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 good 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sushi 271.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 fresh 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sushi 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 clean 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 271.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 asian soup 271.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 1 chicken 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 take 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 empty 271.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 quite 272.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 very 272.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steaks 272.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken 272.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pasta 272.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 good 272.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 consistent 272.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 visit 272.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fish sandwich 272.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 big 272.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 oysters 272.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 perch and flounder 272.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 you 272.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 wonderful 272.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Friday 273.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 273.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 great 273.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beers 273.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 spirits 273.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 this 273.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Gin 273.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Cocktails 273.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 for 273.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 had 273.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Tuna Mayonaise Sandwich 273.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beers 273.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 me 277.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beers 277.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 277.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beers 277.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 here 277.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 Matador sandwich 277.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 beef 277.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 fries 277.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 277.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 great 277.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pretzel roll 277.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 dry 277.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fries 277.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 277.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 amazing 277.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 beer 277.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Phoenix 277.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 country 277.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Lattuca 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Minimal 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beers 278.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wines 278.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 meat 278.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 beef ribs 278.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pork ribs 278.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 brisket 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pulled pork 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 brisket 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 disappoint 278.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 ribs 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pulled pork 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 the 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 recommended 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 meat 278.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beef 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Lattuca 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Texas 278.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 brisket 278.txt
+0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 creamy 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 great 278.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pulled pork 278.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 juicy 278.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 tasty 278.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 coleslaw 278.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 This 28.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 standard 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 be 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 only 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 seating 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 cheaper 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 milkshake 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 candy 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cookies 28.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 you 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 strawberry 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chocolate 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 over 28.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Pittsburgh 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 worried 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 find 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 satisfy 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 least 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 break 281.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 yogurt 281.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 sauces 281.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 baklava 281.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 gyro 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lamb 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 gyro 281.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Kofte Plate 281.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 baby lamb 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 insane 281.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 fluffy 281.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 warm pita 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 kabob sandwiches 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 dried 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pita 281.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 me 281.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 my 286.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 turkey breast 286.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 fresh 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 go 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 mindblowing 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 corn 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 season 286.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 delicious 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 ask 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 premises 286.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 286.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 ice cream 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwiches 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 286.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 apple 286.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 turkey 286.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pepperoni roll 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 adjacent 286.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 super 289.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 rib sub 289.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 rib sub 289.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 get 289.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 lane 289.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 sandwich 289.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 reference 289.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese 289.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 289.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 gross 289.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 291.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 burger 291.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fries 291.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 291.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 291.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 291.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 cheap 291.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 beer 291.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 1 beer 291.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 house wine 291.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 the 291.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 more 291.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 beer 291.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Good 301.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Hot and sour soup 301.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 301.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 you 301.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soup 301.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 not 301.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 liquid 301.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pasta 304.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 sauce 304.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 unpleasant 304.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 generous 304.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lemonade 304.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 write 304.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 kebab 304.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 ricotta cannelloni 304.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 mushroom vegetarian burger 304.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 bread 304.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 attentive 304.txt
+0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 mind 310.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pizza 310.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pizza 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 pizza 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 wings 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 great 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 fill 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 have 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 the 310.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cake 310.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cake 310.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cake 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 LOVE 310.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pizza 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 wings 310.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 wings 310.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 you 310.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 we 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pizza 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wings 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pizza 310.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 314.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 more 314.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 enjoy 314.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 friendly 314.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 closing 314.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cannoli 314.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lobster tail pastry 314.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cannoli 314.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 314.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 coffee 314.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 her 314.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pastries 314.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 rate 314.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Buns 314.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 breads 314.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 fabulous 316.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tomatoes 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 terrible 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 make 316.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 taco 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 chicken 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 dried 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 not 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 sad 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tacos 316.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 delicious 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 tacos 316.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 steak 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 taco 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beans 316.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 onions 316.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 taco 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tortillas 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 pick 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tacos 316.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 brim 316.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Amazing 319.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 pizza 319.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 319.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 charlotte 319.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 319.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 matthews 319.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Yelp 321.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Toronto 321.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 typical 321.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Eastern European 321.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 meat 321.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cabbage rolls 321.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 excellent 321.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 rye bread 321.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 schnitzel 321.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pork chops 321.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 tender 321.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 tasty 321.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cucumber slices 321.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 flavor 322.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 Kambucha Ginger beer 322.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Garlic Crab Noodles 322.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 Chicken Mole 322.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 flavor 322.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Dried Fruit Guacamole 322.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 322.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 really 323.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 spicy 323.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 pig 323.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 worst 323.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 raw chicken 323.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 discusting 323.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Good 324.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 nice 324.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 fancy 324.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 pancakes 324.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 incredible 324.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tea 324.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 amazing 325.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 southwest burger 325.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 divine 325.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 refreshing 325.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cocktails 325.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 325.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Vegas 326.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 bestest 326.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lattes 326.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Vegas 326.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 located 326.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 monte Carlos 326.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 cute 326.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 326.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 almond croissant 326.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 delicious 326.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 good 326.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Really 326.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 lattes 326.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Love 326.txt
+0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 0 super fresh 327.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chips 327.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 salsa 327.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 amazing 327.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 great 327.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 really good 327.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 seafood soup 327.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 micheladas 327.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 pretty good 329.txt
+0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 fresh 329.txt
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 lemon chicken 329.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken with vegetables 329.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 wonton soup 329.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Lemon chicken 329.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 lemon sauce 329.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken 329.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 really good 329.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 pleasantly 329.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 chicken breast 329.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 fresh 329.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 crunchy 329.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Wonton soup 329.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 very good 329.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cauliflower soup 330.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pulled pork sandwich 330.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 yummy 330.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 friendly 330.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 staff 330.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 335.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 great 335.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Protein pancakes 335.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken sausage 335.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 eggs Benny 335.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 335.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 valley 335.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 interesting 341.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 341.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 manga burger 341.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 scallops 341.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 crab 341.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 simple 341.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 perfect 341.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 beer 341.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 hitachino white 341.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Best 342.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 beef pancakes 342.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 noodle bowls 342.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 awesome 342.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Bad 342.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 soup 342.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Soup 342.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 really salty 342.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 satisfactory 343.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Steak N Shake 343.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 little 346.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sushi 346.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Loblaws 346.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 Pusateris 346.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bread 346.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 cashiers 346.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Wendy's 347.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 guilty 347.txt
+0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 greasy 347.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 unhealthy 347.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 pleasure 347.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 love 347.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Wendy's milkshake 347.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Fries 348.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 old 348.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 cold 348.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 ice 348.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 348.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 plain 348.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 delish 350.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 seafood combo 350.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salmon scallops 350.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Shrimpv and the 350.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 Shrimp 350.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 soup 350.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 350.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 shrimp appetizer noodles 350.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 rice 350.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 350.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 economical 350.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 definitely 350.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 Pintos 353.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 tacos 353.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 pork 353.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 chicken 353.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Guacamole 353.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 guacamole 353.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken 353.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pork tacos 353.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burrito 353.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 ginger beer 353.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 greek salad 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 tomatoes 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 cucumbers 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rice 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rice 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pita 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 hummus 359.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pita 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken souvlaki 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 rice 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 falafel 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sauce 359.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 onions 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 falafel 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 baklava 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 rice pudding 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken santorini sandwich 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pita 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 greek food 359.txt
+1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 pita bread 359.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 hummus 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pita bread 359.txt
+0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 Greek Salad 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 grilled chicken 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pita 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 avgolemono soup 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 tzatziki 359.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 garlicky 359.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken skewers 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 rice 359.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken 359.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 buttery 359.txt
+0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 quiznos 36.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 36.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Quiznos Subs 36.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 36.txt
+0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 Quiznos 36.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 toasted sandwich 36.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pink lemonade 36.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 eggs 361.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bacon 361.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sausage 361.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 oatmeal 361.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 waffle 361.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 Marriott 361.txt
+0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 black bean burger 362.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 garlic aioli 362.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 vegan burger 362.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 vegan burgers 362.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 juicy 362.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fries 362.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 plain fries 362.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 curly fries 362.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 sweet potato fries 362.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chocolate 362.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 strawberry 362.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 sweet 362.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken wrap 362.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 popcorn chicken 362.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burgers 362.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 sweeter 362.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fish tacos 362.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 beef sandwich 362.txt
+0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 cool place 367.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 atmosphere 367.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 food 367.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 guy 367.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steaks 367.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 wisest 367.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 rest 367.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Obazda 367.txt
+0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 ball of cheese 367.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 onions 367.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bratwurst 367.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cheesecake 367.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 creamy 367.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 sweet 367.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 styrofoam 367.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 apple pie 367.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 pastry school 367.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 Sunday brunch 37.txt
+0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 place 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 solid 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 portions 37.txt
+0 0 0 0 1 0 1 0 0 1 0 0 1 0 0 0 fresh 37.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 tasty 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 tom yum soup 37.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 bunch 37.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tiger shrimp 37.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tornado rolls 37.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 crab meat 37.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 thai red curry 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 mango salad 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 hot and sour soup 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 triple cheese dumplings 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 flaky crab 37.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cheese filled pastry 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sashimi 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 presentation 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 broth 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 pricey side 37.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Spring Rolls 37.txt
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 a 37.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 Salad Summer Roll 37.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 smoked salmon 37.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tiger shrimp 37.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 California greens 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sauce 37.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 fiery 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Tom Yum Goong 37.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tiger shrimp 37.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lemongrass 37.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 galangal 37.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lime leaves 37.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 mushrooms 37.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chili 37.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 lemon juice 37.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 371.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 371.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 hot dog 371.txt
+0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 casual place 371.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 outdoor seating 371.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 people 371.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 beer 371.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 atmosphere 371.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 roasted almonds 371.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 wait staff 371.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 informed 371.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 bar 371.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 drunk food 371.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 371.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 lebanese cuisine 373.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Fattouch salad 373.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Falafel 373.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Meat Plate 373.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Service 373.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Gyro Salad 374.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Bacon Cheeseburger 374.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Burger Platter 374.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 grilled cheese 374.txt
+0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 soggy toast 374.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 melted cheese 374.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 374.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 tzatziki sauce 374.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 there 374.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pita 374.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 tasted 374.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 American food 374.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 excellent service 374.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 attractive setting 374.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 brass 374.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 oak 374.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 high quality 374.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 well-prepated 374.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 generous 374.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 closest 374.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 lunch 374.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 bugs 374.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 woman 375.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 375.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tacos 38.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burritos 38.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 papusas 38.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 snow cones 38.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fry bread 38.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 list 38.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Saturday 38.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Sunday 38.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 red chili pork tamale 38.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 green chili chicken tamale 38.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sweet corn tamale 38.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 blackberry dessert tamale 38.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 breads 381.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 dips 381.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwiches 381.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salads 381.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 hot entrees 381.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pita 381.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 food service 381.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 blue corn nachos 381.txt
+0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 without 381.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beef noodle 385.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 location 385.txt
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 sliced lamb potato noodle soup 385.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cold noodle with sesame 385.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 spicy potato noodle soup 385.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cold noodles 385.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 1 0 1 beef brisket potato noodle soup 385.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 seafood potato soup 385.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Atmosphere 385.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Customer service 385.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Overall 385.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 apple fritter 389.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Ronald's Doughnuts 389.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 doughnut 389.txt
+0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 doughnuts place 389.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Steak burrito 39.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Mexican food 39.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 steamed chicken soup 390.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steamed beef 390.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 spicy beef noodles 390.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 meal 390.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 it 569.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 money 569.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 dumplings 592.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 inspiring 592.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 dumpling soup 592.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 tasteless 592.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken 592.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 shrimp 592.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lamb dumplings 592.txt
+0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 tasteless 592.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 frozen 592.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 terrible 592.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 dumplings 592.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 592.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 dumpling 592.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 soup 592.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Foresters 596.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Kelly's 596.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 smaller 596.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 quirky 596.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 596.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 decent 596.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 wine 596.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 good 596.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 596.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 welcoming 596.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 best 596.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 good 596.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 perfect 596.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 596.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 satisfactory 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 hungry 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 heavy 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wine 597.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 597.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 purple haze 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 curry 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken 597.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 1 garlic 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 potatoes 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 good 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 pickles 597.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 pickles 597.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 potatoes 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 good 597.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 garlic 597.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 baklava bread pudding 597.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soup 597.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 big 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Scottsdale 597.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soup dumplings 604.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 smell 604.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 pork dumplings 604.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 scallion pancake 604.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 hot 604.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 authentic 604.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Spring Sushi 606.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 iPad 606.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 alright 606.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 crispy 606.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bean 606.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 curd 606.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 avocado roll 606.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sashimi 606.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 606.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 steak 606.txt
+0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 1 garlic 606.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 favourite 606.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 sushi 606.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Sushi 606.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 salty 606.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 alright 606.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 typical 606.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Cute 607.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 fabulous 607.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 607.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cookie 607.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 sweet 607.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Monona bar 607.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 607.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 super 607.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 sweet 607.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 mint sandwich cookie 607.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 ice cream 607.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 607.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 Atwood 607.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 got 609.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 cookie 609.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 ice cream 609.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 packed 609.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 came 610.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 pretty 610.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 good 610.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 was 610.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 happy 610.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 fine 610.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 garden omelette 610.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pancakes 610.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 Tasty 610.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Kitchin 614.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 closed 614.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 oysters 614.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bone marrow 614.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pumpkin 614.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soup 614.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 artichoke 614.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 barley 614.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 risotto 614.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pudding 614.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fantastic 614.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 614.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cucumber 614.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 martini 614.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pecan 614.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 almond 614.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 wonderful 614.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 1 0 1 bud lightlime 615.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 waitress 615.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 cider 615.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 waitress 615.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 beer 615.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 scotch 615.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soda 615.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 scotch 615.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Jim Beam 615.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 beer 615.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 tasting 619.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lamb 619.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 chose 619.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 steak 619.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 portions 619.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 619.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 hits 619.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 shrimp 619.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 scallop 619.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 mushroom 619.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 ravioli 619.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 lamb 619.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lobster 619.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bisque 619.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 great 619.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 patient 619.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Marco's Pizza 62.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 Marco's 62.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pizza 62.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 Pizza 62.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 62.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 large 62.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 veggie pizza 62.txt
+0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 ordered 62.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 olives 62.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 chewy 62.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 bacon 62.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizzas 62.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 ok 62.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 definitely 622.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 falafel 622.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 622.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 622.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 salad 622.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 it 622.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 salads 622.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 delish 622.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Steak 622.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Asparagus 622.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 salad 622.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Super 622.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 fast 622.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 622.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 623.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 helpful 623.txt
+0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 fruit drink 623.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pupusas 623.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 really 623.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 good 623.txt
+0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 fresh 623.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 coleslaw 623.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 tortillas 623.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 pancake 623.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 623.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 really 623.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 nice 623.txt
+1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 chicken 623.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 visiting 625.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Bishop Burger 625.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 greeted 625.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Ordered 625.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Burger 625.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 great 625.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 625.txt
+0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 working 625.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Jimmy Johns 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 fairly 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwiches 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 french bread 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Sides 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Chips 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 cookies 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Jimmy John's 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 627.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 great 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwiches 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 cheaper 627.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 fresh 627.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bread 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 627.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 dumplings 628.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 kung pao chicken 628.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 dissappointed 628.txt
+0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 it 628.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 628.txt
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 pepper steak 628.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 eating 628.txt
+0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 place 628.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 hot and sour soup 628.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 628.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Pittsburgh 628.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 really 628.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 628.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 filling 628.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 dreadful 629.txt
+0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 place 629.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 food 629.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 629.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sausage 629.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 sausage 629.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 FOOD 629.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 MCDONALDS 629.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 TIMMYS BLUEBERRY MOOFFIN 629.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 629.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 VEGETABLE 629.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 black 629.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 gyro 629.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 629.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Great 631.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 Fresh 631.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 631.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 631.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 631.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 631.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 631.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 basil 631.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 espresso 631.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 pizza 631.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pizza 631.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pepperoni 631.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 prosciutto 631.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 tomato 631.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 crisp 631.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bready 631.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 brown 631.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 631.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 631.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 plenty 631.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Nice 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rotisserie chicken tacos 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Excellent 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 avocado 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 chips 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 service 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Amazing 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 atmosphere 632.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 kefta lamb burger 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 killer 632.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 burger 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 632.txt
+0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 Burrito 632.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 spicy 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 amazing 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 pretty 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 awful 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 skeptic 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 right 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 great 632.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 rough 632.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 same 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 good 645.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 caprese chicken 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 ciabatta bread 645.txt
+0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 slather 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pesto 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tomatoes 645.txt
+0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 basil 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 good 645.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 food 645.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fries 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 ciabatta 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 645.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 soggy 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 gross 645.txt
+0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 happy hour 645.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 645.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 646.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 subs 646.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bread 646.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 646.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 thick 646.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bread 646.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 subs 646.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Amazing 648.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 amazing 648.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 best 648.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 huge 648.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 648.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 nice 648.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pasta 648.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 pepper sauce 648.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Neat 649.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 clean 649.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 good 649.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 649.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 bread 649.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Excellent 649.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Subway 65.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sandwiches 65.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 gross 65.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 good 65.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 65.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 wreck 65.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Subway 65.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 subway 65.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 awesome 652.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 cozy 652.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 comfortable 652.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 yummy 652.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 fresh 652.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 sauce 652.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 steak 652.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 asparagus 652.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 fantastic 652.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 excellent 652.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 great 652.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 typical 655.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 655.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 busy 655.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 peak 655.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 655.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 love 655.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 Burger 655.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 burgers 655.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 655.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 greasy 655.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 medium 655.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 juicy 655.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 flavor 655.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bread 655.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Fries 655.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 fries 655.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 good 655.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 655.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 bad 655.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 skeptical 656.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 glad 656.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 656.txt
+0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 steak 656.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chorizo 656.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burrito 656.txt
+0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 1 chicken nachos 656.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 delicious 656.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 serious 659.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 typical 659.txt
+0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 polenta 659.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 mushrooms 659.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 creamy 659.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cilantro-lime wings 659.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bone marrow 659.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pork burgers 659.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 piggy 659.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 caramel cake 659.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Beer 659.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wine 659.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Great 660.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 660.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Best 660.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 660.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Nice 660.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Patio 660.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 noisy 660.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 better 663.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Pho Hung 663.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 delicious 663.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 speedy 663.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rice 663.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 soup 663.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 rice 663.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 soup 663.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rice 663.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Bun Saigon 663.txt
+0 0 0 0 1 0 1 0 0 0 0 0 1 1 0 0 perfect 663.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 guilty 665.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 nasty 665.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 juicy 665.txt
+0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 greasy 665.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 665.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 665.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 burger 665.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 JUICY 665.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 greasy 665.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 egg 669.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 soup 669.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 tasteless 669.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 bland 669.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 cashew 669.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken 669.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 alright 669.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 flavor 669.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 ingredients 669.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pizza 670.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 Fresh 670.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 fast 670.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 friendly 670.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 little 670.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pizza 670.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 670.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 high 670.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 cold 671.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 671.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 cool 671.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 671.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 quality 671.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 ghetto 672.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 672.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Hanini 672.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 NE Ohio 672.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 great 672.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 stereotypical 672.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 Four Loko 672.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwiches 672.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 cigarettes 672.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 lotto tickets 672.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 gyro 672.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 gyro 672.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cucumber 672.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cucumbers 672.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 yogurt 672.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 cucumber 672.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 cucumber 672.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 juicy 672.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 fresh 672.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 Golden Mountain 675.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Richmond Hts 675.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Willowick 675.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 675.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 hot and sour soup 675.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Moo Goo Gi Pan 675.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pork fried rice 675.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 675.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 incredible 675.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 wonderful 675.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 hoagie 679.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 coke 679.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sub 679.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 good 679.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 plenty 679.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 679.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 flavor 679.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 meats 679.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 soft 679.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 679.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 679.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 favorite 681.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 681.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 mushroom 681.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 pizza 681.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 salad 681.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 perfect 681.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 amazing 681.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 crispy 681.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 goodness 681.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 681.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Better 682.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 average 682.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 682.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Good 682.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burgers 682.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 682.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 shakes 682.txt
+0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 fresh 682.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 682.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 purple Pig 683.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 683.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 simple 683.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 goulash 683.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 tasty 683.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 Purple Pig 683.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 welcome 683.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 handy 683.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 normal 684.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 ridiculous 684.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 biscuit 684.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 biscuit 684.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 biscuit 684.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 awesome 691.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 691.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rice 691.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beans 691.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 flavor 691.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fish tacos 691.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 enchilada 691.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meatball soup 691.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 691.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rice 691.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beans 691.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 terrible 691.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 bad 691.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 amazing 692.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 692.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 good 692.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 fast 692.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 friendly 692.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Duck 693.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 absolutely 693.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 incredible 693.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 trout 693.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 underwhelming 693.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bread 693.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pudding 693.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 soft 696.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 waffle 696.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sundae 696.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sundae 696.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 syrup 696.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 ice cream 696.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 cookies 696.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Handel's 696.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Stricklands 696.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 699.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chips 699.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 699.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 burgers 699.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chips 699.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 shaved 699.txt
+0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 chicken 699.txt
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 meat 699.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 complaints 699.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 decent 699.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 mediocre 7.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 authentic 7.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 pizza 7.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 onion rings 7.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 fries 7.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 legit 7.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 nice 7.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 707.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 quality 707.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 fair 707.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 arancini 707.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chocolate tofu pudding 707.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 ice cream 707.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 707.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wines 707.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 beers 707.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 nice 707.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 707.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pizza 708.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 fast 708.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 708.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 meat 708.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pizza 708.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 708.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 South Blvd 709.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 Eastland 709.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 really 709.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tacos 709.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken 709.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steak 709.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 barbacoa 709.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 tacos 709.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 torta albanileras 709.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 better 709.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 tacos 709.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bread 709.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 super 709.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 soft 709.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 709.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 toppings 709.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 flight 710.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 pricey 710.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wine 710.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 710.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 friendlier 710.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 hate 712.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sushi rolls 712.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Dundas 712.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Sushi 712.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Baldwin 712.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwiches 712.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Avenue Bistro 712.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Sage 712.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwiches 712.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lettuce 712.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Noodles 712.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 greasy 712.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 bland 712.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 soup 712.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 La Cave 713.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 bachelorette 713.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 outrageously 713.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 decorated 713.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bacon 713.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 dates 713.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 flatbreads 713.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 bacon 713.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 quail egg 713.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fontina flat bread 713.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 sirloin steak 713.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 mushroom fondue 713.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 scallops 713.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 beautiful 713.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 rare 715.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 715.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 amazing 715.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 friendly 715.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 nachos 715.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 715.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 Friday 715.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Saturday 715.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 717.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burro 717.txt
+0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 burro 717.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 comfortable 717.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 patio 717.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 beer 717.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chips 717.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 good 717.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Margaritas 717.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 impressive 717.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 GOOD 719.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 green onions 719.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 tasty 719.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Phoenix 719.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Easy 719.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Saison 723.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 723.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 brewery 723.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 first 723.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 723.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 kung pao chicken 724.txt
+0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 1 beef 724.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 sauce 724.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 dumpling 724.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 hot and sour soup 724.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 curry noodles 724.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 singapore noodles 724.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 kung pao chicken 724.txt
+0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 beef 724.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 sauce 724.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 rice 724.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 dumplings 724.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 good 724.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 hot and sour soup 724.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 curry noodles 724.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 ok 724.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 singapore noodles 724.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 best 724.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 kung pao chicken 724.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 nice 724.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 1 sushi 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Tapas 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 really 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Bulgogi 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 shorts ribs 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 awesome 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Crispy 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 rice 729.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 super 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tuna 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 ikura 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 really 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 good 729.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 GREAT 73.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 greasy 73.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fried 73.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken strips 73.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 delicious 73.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken strips 73.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 cheap 73.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 breaded 73.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 disappointing 73.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 sweet 73.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pizza 730.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 hard 730.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Uneven 730.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 thickness 730.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 sauce 730.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Awesome 739.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Good 739.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 big 739.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Lobster cobb salad 739.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 mashed potatoes 739.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 onion rings 739.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 onion ring 739.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 large 739.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Lobester cobb salad 739.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 little 739.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 strong 739.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sushi 74.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 beef jerky 74.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 tuna 74.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sushi 74.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 sushi 74.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 freshness 74.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sushi 74.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 arrogant 74.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 ignorant 74.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 really 740.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 cool 740.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 quite 740.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 awful 740.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 ordered 740.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chicken chowder soup 740.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 creamy 740.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 740.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 almost 740.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 inedible 740.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 sauce 740.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beers 740.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Giant Eagle 742.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 steak 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pork chops 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 meats 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Giovanni's 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 expensive 742.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 supreme 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 meat 742.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pork chops 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pork chops 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 steaks 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meat 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 super 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 nice 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 super 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 cute 742.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Vegas 745.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 happy hour 745.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 awesome 745.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wine 745.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 sparkling 745.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sliders 745.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 burger 745.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 awesome 745.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 wine 745.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 very 745.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 classy 745.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 delicious 745.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 insanely 749.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 good 749.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 Fresh 749.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 meats 749.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 749.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sub 749.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 always 749.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 749.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 lasagna 749.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 large 749.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 great 749.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Cannoli 749.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Southern 75.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Ontario 75.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 delicious 75.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 Eaton Center 75.txt
+1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 chicken curry 75.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 chick peas 75.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 yellow rice 75.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 all 75.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 very 75.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 good 75.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 garlic butter naan 75.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 naan bread 75.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Sirloin 751.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Gnocchi 751.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 steak 751.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 cooked 751.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 great 751.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 delicious 754.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 ribs 754.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 sea bass 754.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 fish 754.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 Great 754.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 Tasty 754.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Excellent 755.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 very 755.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 ribs 755.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 tender 755.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 very tasty 755.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Rib 755.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Beef Ribs 755.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 great 755.txt
+0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 freaking 755.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 755.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 Gilbert 759.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 slow 759.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 busy 759.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 759.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 76.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 burger 76.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 fries 76.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Friendly 760.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 760.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 760.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 danishes 760.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 scones 760.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cinnamon buns 760.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pastries 760.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 760.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 fresh 760.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 fresh 760.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 breads 760.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 tasty 760.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 bread 760.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 patties 762.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 spicy 762.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beef 762.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 delicious 762.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Crispy 762.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 762.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 overbearing 762.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 patty 762.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 patties 762.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 pop 762.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 watering 762.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 happy hours 765.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 happy hour 765.txt
+0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 bloody mary 765.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sliders 765.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 tacos 765.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 bloody mary 765.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 tomato juice 765.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 salt 765.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 hot sauce 765.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 worcestershire sauce 765.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Tacos 765.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Sliders 765.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Meat 765.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 cheap 765.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 beer 765.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 ribs 77.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 yummy 77.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 Groupon 77.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 Groupon 77.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 delicious 77.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 chicken souvalki 771.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 chicken 771.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 771.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Greek food 771.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 mediocre 771.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Greek food 771.txt
+0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 special 771.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 cute 775.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cupcake 775.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 best 775.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cupcakes 775.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 nice 775.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 bread 775.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 cupcake 775.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 really good 775.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 cupcake 775.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 really good 775.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 nice 775.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 impressed 79.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 okay 79.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 better 79.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 burger 79.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 flavor 79.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 burger 79.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 lays potato chips 79.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 fries 79.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 79.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 79.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 79.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 hate 79.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Subway 80.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 80.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Capriotti's 80.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Subway 80.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 bread 80.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 80.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 great 80.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 chewy 80.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 turkey 80.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 roast beef 80.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 lettuce 80.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tomatoes 80.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 brownies 80.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 Wonderful 82.txt
+0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 superb 82.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 service 82.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 excellent 82.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 chicken vermicelli salad 82.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 stir fried vegetables 82.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pork ribs 82.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 onions 82.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 spring roll 82.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 really busy 88.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 busy 88.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 88.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 really upset 88.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 88.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 sandwich 88.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 good 88.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 stunning 889.txt
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 steak tacos 889.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 food 889.txt
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 the Margarita 889.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 return 889.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwich 9.txt
+0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 spinach dip 919.txt
+0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 nachos 919.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 martini 919.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 gross 919.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Food 919.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 atmosphere 919.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 jazz 919.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 libations 919.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 layout 919.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 entire menu needs 919.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 craft beer 922.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 wonderland 922.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 beer 922.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beers 922.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Shoes 922.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 handbags 922.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 dresses 922.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 spinach mushroom omelette 95.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 wild 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 mushroom 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 frittata 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 chili chicken soup 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 personable 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 good 95.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 Egg 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 great 95.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 juice 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 try 95.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 1 pineapple 95.txt
+0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 terrific 95.txt
+1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 egg 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 GOOD 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 pancakes 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Their 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 sandwiches 95.txt
+0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 prepared 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 try 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 Scottsdale 95.txt
+0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 place 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 great 95.txt
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 I 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 great 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 pumpkin pecan waffle 95.txt
+0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 you 95.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Salsa 99.txt
+0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 Pico 99.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 chips 99.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 tortillas 99.txt
+0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 best 99.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 beer 99.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 there 99.txt
+0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 night 99.txt
