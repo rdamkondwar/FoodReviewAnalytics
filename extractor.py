@@ -86,29 +86,33 @@ class Example:
 
     # Prefix is food adjective    
     def evaluateFeature1(self, index, trie):
+        
+        boolResult = False
         tagType = self.words[index]
         prevElements = self.words[index-1:index]
         #print prevElements
         if (len(prevElements) > 0):
-            return trie.search(prevElements[0])
+            boolResult = trie.search(prevElements[0])
+            '''if boolResult:
+                print str(prevElements) + "================1===========\n"'''
 
-        return False
+        return boolResult
 
-    # Food part of comma seperated values.    
+    # Food part of comma, and, & seperated values.    
     def evaluateFeature2(self, index):
         tagType = self.words[index]
 
         prevElements = self.words[index-2:index]
         
         if (len(prevElements) == 2):
-            if prevElements[1] == ',' and (index-2) in self.tag_dict:
+            if(((prevElements[1] == ',') or (prevElements[1] == '&') or (prevElements[1] == 'and')) and ((index-2) in self.tag_dict)):
                 #print "current_debug: ", prevElements
                 return True
 
         nextElements = self.words[index+1:index+3]
         
-        if (len(prevElements) == 2):
-            if prevElements[0] == ',' and (index+2) in self.tag_dict:
+        if (len(nextElements) == 2):
+            if(((nextElements[0] == ',') or (nextElements[0] == '&') or (nextElements[0] == 'and')) and ((index+2) in self.tag_dict)):
                 #print "current_debug: ", nextElements
                 return True
 
@@ -204,8 +208,8 @@ class Example:
             for each_elem in self.tag_dict[index].split():
                 boolResult =  trie.search(each_elem.lower())
                 '''if boolResult:
-                    print each_elem + "====================== \n"'''
-        return False
+                    print each_elem + "=============10========= \n"'''        
+        return boolResult
 
 
     #Is a pronoun
