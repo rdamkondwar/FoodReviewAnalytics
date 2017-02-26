@@ -15,7 +15,7 @@ class Example:
     N_PREFIX = '<ntag>'
     N_SUFFIX = '</ntag>'
     P_RE = '<ptag>[\s+\'a-zA-Z0-9_-]+</ptag>'
-    N_RE = '<ntag>[\s+\'    a-zA-Z0-9_-]+</ntag>'
+    N_RE = '<ntag>[\s+\'a-zA-Z0-9_-]+</ntag>'
     
     def __init__(self):
         self.words = []
@@ -249,7 +249,7 @@ class Example:
     # Suffix is such that its a name of a place
     def evaluateFeature12(self, index):
         tagValue = self.tag_dict[index]
-        for suffix in ['king', 'hut', 'house', 'quiznos', 'place']:
+        for suffix in ['king', 'hut', 'house', 'quiznos', 'place', 'houses']:
             if (str.endswith(tagValue.lower(), suffix)):
                 return True
 
