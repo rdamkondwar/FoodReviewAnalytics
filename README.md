@@ -1,2 +1,2 @@
-# FoodReviewAnalytics
-DataScience Project for CS838
+# CS 838 Data Science Project (Spring 2017)
+Yelp vs Zomato
