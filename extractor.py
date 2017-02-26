@@ -198,10 +198,14 @@ class Example:
     # Is a food adjective slang
     def evaluateFeature10(self,index, trie):
         #print str(index) + " and dict " + str(self.tag_dict)
+        boolResult = False
+
         if index in self.tag_dict:
-            return trie.search(self.tag_dict[index].lower())
-        else:
-            return False
+            for each_elem in self.tag_dict[index].split():
+                boolResult =  trie.search(each_elem.lower())
+                '''if boolResult:
+                    print each_elem + "====================== \n"'''
+        return False
 
 
     #Is a pronoun

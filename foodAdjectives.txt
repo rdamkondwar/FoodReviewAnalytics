@@ -28,6 +28,8 @@ balsamic
 
 beautiful
 
+best
+
 bite-size
 
 bitter
@@ -68,6 +70,8 @@ center cut
 
 char-broiled
 
+cheap
+
 cheesy
 
 chilled
@@ -104,6 +108,10 @@ creamy
 
 crisp
 
+crisped
+
+crispy
+
 crunchy
 
 cured
@@ -113,8 +121,6 @@ cutting
 dazzling
 
 deep-fried
-
-delectable
 
 delectable
 
@@ -128,6 +134,8 @@ distinctive
 
 doughy
 
+dreadful
+
 dressed
 
 dripping
@@ -137,6 +145,8 @@ drizzle
 drizzled
 
 dry
+
+dried
 
 dulcified
 
@@ -157,6 +167,8 @@ extraordinary
 famous
 
 fantastic
+
+fast
 
 fetid
 
@@ -234,6 +246,14 @@ gritty
 
 gustatory
 
+good
+
+great
+
+pretty good
+
+really good
+
 half
 
 harsh
@@ -261,6 +281,8 @@ hot
 ice-cold
 
 icy
+
+incredible
 
 incisive
 
@@ -290,10 +312,13 @@ lean
 
 leathery
 
-lemon
-less
+lemony
 
-light / lite
+lemonless
+
+light
+
+lite
 
 lightly salted
 
@@ -318,6 +343,8 @@ lush
 marinated
 
 mashed
+
+mediocre
 
 mellow
 
@@ -517,6 +544,10 @@ sugarless
 
 sugary
 
+super
+
+terrible
+
 superb
 
 sweet
@@ -565,6 +596,8 @@ treacly
 
 treat
 
+unhealthy
+
 unflavored
 
 unsavory
@@ -598,4 +631,16 @@ yummy
 zesty
 
 zingy
+
+soft
+
+better
+
+excellent
+
+awesome
+
+amazing
+
+gross
 
