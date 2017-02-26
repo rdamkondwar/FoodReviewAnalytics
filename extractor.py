@@ -7,6 +7,7 @@ from trie import Trie
 
 #Food afjectives file name
 foodAdj_file = 'foodAdjectives.txt'
+adverbs_file = 'adverbs.txt'
 
 class Example:
     P_PREFIX = '<ptag>'
@@ -83,6 +84,7 @@ class Example:
             #i+=1
         return -1
 
+    # Prefix is food adjective    
     def evaluateFeature1(self, index, trie):
         tagType = self.words[index]
         prevElements = self.words[index-1:index]
@@ -92,6 +94,7 @@ class Example:
 
         return False
 
+    # Food part of comma seperated values.    
     def evaluateFeature2(self, index):
         tagType = self.words[index]
 
@@ -111,17 +114,19 @@ class Example:
 
         return False
 
+    # Prefix is pronoun and suffix is "is/was/were"
     def evaluateFeature3(self, index):
         tagType = self.words[index]
 
         elements = self.words[index-1:index+2]
         
         if (len(elements) == 3):
-            if elements[0].lower() == 'their' and elements[2].lower() in ['is', 'was', 'were']:
+            if ((elements[0].lower() == 'their') and (elements[2].lower() in ['is', 'was', 'were'])):
                 return True
 
         return False
 
+    # Prefix is chose,had,choose
     def evaluateFeature4(self, index):
         tagType = self.words[index]
         prevElements = self.words[index-1:index]
@@ -131,6 +136,7 @@ class Example:
                 return True
         return False
 
+    # Previous 2 words contain ordered.
     def evaluateFeature5(self, index):
         tagType = self.words[index]
         prevElements = self.words[index-2:index]
@@ -140,14 +146,13 @@ class Example:
                 return True
         return False
 
-    #Suffix is 'with'    
+    # Suffix is 'with'    
     def evaluateFeature6(self, index):
         boolResult = False
         if((index + 1) in range(len(self.words))):
             if(self.words[index + 1].lower() == 'with'):
                 boolResult = True
                 #print str(self.words)
-
         return boolResult
 
     #Number of characters is greater than 2
@@ -183,6 +188,7 @@ class Example:
 
         return boolResult
 
+    # Is a food adjective slang
     def evaluateFeature10(self,index, trie):
         #print str(index) + " and dict " + str(self.tag_dict)
         if index in self.tag_dict:
@@ -218,21 +224,20 @@ class Example:
             boolResult = True 
         return boolResult
 
-    #Prefix is is/was/were/in/to/I/for.
-    def evaluateFeature15(self, index):
+    #Prefix is adverb
+    def evaluateFeature15(self, index, trie):
         boolResult = False 
-        listArticles = ['so', 'very', 'really', 'super', 'painfully', 'only', 'utterly']
-        strVal = ""
+        #listArticles = ['so', 'very', 'really', 'super', 'painfully', 'only', 'utterly']
+        strVal = "DEFAULT"
         if (index-1) in self.tag_dict:
             strVal = self.tag_dict[index-1].lower()
         else:
             if((index - 1) in range(len(self.words))):
                 strVal = self.words[index - 1].lower()
-        if(strVal) in listArticles:
-            #print " PREFIX FOUND IS :  " + strVal
-            boolResult = True 
+        boolResult = trie.search(strVal)
         return boolResult
 
+    # Suffix is such that its a name of a place
     def evaluateFeature12(self, index):
         tagValue = self.tag_dict[index]
         for suffix in ['king', 'hut', 'house', 'quiznos', 'place']:
@@ -241,6 +246,7 @@ class Example:
 
         return False
 
+    # Is last word of the sentence.
     def evaluateFeature14(self, index):
         tagValue = self.tag_dict[index]
         values = self.words[index+1:index+2]
@@ -249,13 +255,21 @@ class Example:
             for suffix in ['.', '!', ')']:
                 if (str.endswith(values[0], suffix)):
                     return True
-        
         return False
+
+    # Suffix is '-'    
+    def evaluateFeature16(self, index):
+        boolResult = False
+        if((index + 1) in range(len(self.words))):
+            if(self.words[index + 1].lower() == '-'):
+                boolResult = True
+                #print str(self.words) + "=========================\n"
+        return boolResult
 
 
 class FeatureSet:
     def __init__(self):
-        self.values = [0,0,0, 0,0,0, 0,0,0, 0,0,0, 0,0,0]
+        self.values = [0,0,0, 0,0,0, 0,0,0, 0,0,0, 0,0,0,0]
 
     def __str__(self):
         return ' '.join(str(x) for x in self.values)
@@ -274,13 +288,20 @@ class DataSet:
         self.featuresList = []
         self.outputList = []
         self.adjTrie = Trie()
+        self.advTrie = Trie()
         #self.labelList = []
         with open(foodAdj_file) as f:
             for line in f:
                 if len(line) > 2:
                     #print "l" + line
                     self.adjTrie.insert(line.rstrip().lower())
-        #print self.adjTrie.get_all()
+
+        with open(adverbs_file) as f:
+            for line in f:
+                if len(line) > 2:
+                    #print "l" + line
+                    self.advTrie.insert(line.rstrip().lower())
+        #print self.advTrie.get_all()
 
     def insertExample(self, example, idx, fileName):
         fs = FeatureSet()
@@ -332,7 +353,7 @@ class DataSet:
         if value:
             fs.setFeatureValue(13,1)
 
-        value = example.evaluateFeature15(idx)
+        value = example.evaluateFeature15(idx,self.advTrie)
         if value:
             fs.setFeatureValue(15,1)
         '''value = example.evaluateFeature10(idx)
@@ -346,6 +367,10 @@ class DataSet:
         value = example.evaluateFeature14(idx)
         if value:
             fs.setFeatureValue(14,1)
+
+        value = example.evaluateFeature16(idx)
+        if value:
+            fs.setFeatureValue(16,1)
 
         print fs, example.getOutputForIndex(idx), example.getTagName(idx), os.path.basename(fileName)
 
