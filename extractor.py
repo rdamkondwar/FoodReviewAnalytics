@@ -142,8 +142,11 @@ class Example:
         prevElements = self.words[index-2:index]
         #print prevElements
         if (len(prevElements) > 0):
-            if('ordered' in prevElements):
-                return True
+            for each_elem in prevElements:
+                if(each_elem.lower() == "ordered"):
+                    #print each_elem + "=========================\n"
+                    return True
+                    
         return False
 
     # Suffix is 'with'    
@@ -157,10 +160,14 @@ class Example:
 
     #Number of characters is greater than 2
     def evaluateFeature7(self, index):
+        boolResult = False
+        strVal = "DEFAULT"
         if index in self.tag_dict:
-            return (len(self.tag_dict[index]) >= 2)
-        else:
-            return False
+            strVal = self.tag_dict[index].lower()
+        if (strVal.lower() == "sauce" or strVal.lower() == "sauces"):
+            boolResult = True
+            #print strVal + "=========================\n"
+        return boolResult
 
     #Prefix is article
     def evaluateFeature8(self, index):
@@ -235,6 +242,8 @@ class Example:
             if((index - 1) in range(len(self.words))):
                 strVal = self.words[index - 1].lower()
         boolResult = trie.search(strVal)
+        '''if boolResult:
+            print strVal + "=======================\n"'''
         return boolResult
 
     # Suffix is such that its a name of a place
