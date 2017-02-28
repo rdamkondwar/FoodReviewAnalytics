@@ -1,0 +1,2 @@
+
+"This is <ntag>where</ntag> the <ptag>meat</ptag> is at!!! If you are looking for great <ptag>steak</ptag> for grilling check this place out. It reminds me of the small chain local grocery stores I used to <ntag>know</ntag> and love. There are very few of these kind of stores around it seems. They are very friendly, eager to <ntag>help</ntag>. Great <ptag>beer</ptag> selection and great customer service. We didn't even have <ntag>lines</ntag>."

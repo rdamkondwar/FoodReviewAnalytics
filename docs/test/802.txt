@@ -1,0 +1,1 @@
+"<ntag>Crispy</ntag> <ptag>fish tacos</ptag> and a pitcher of <ptag>beer</ptag> on a nice afternoon while sitting on Joyride's patio is <ntag>complete</ntag> luxury. Also unbelievably priced during <ntag>happy hour</ntag>; <ntag>best</ntag> $10 I could spend."

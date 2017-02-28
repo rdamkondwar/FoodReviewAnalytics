@@ -1,0 +1,3 @@
+"<ntag>Excellent</ntag> barbecue and <ntag>very</ntag> reasonable priced. We really enjoyed the <ptag>ribs</ptag>. They were <ntag>tender</ntag> and <ntag>very tasty</ntag>"
+"Best in Las Vegas! Worth finding! The large <ptag>Rib</ptag> platter is for the very hungry and the Half Rack of <ptag>Beef Ribs</ptag> makes a <ntag>great</ntag> Lunch."
+"<ntag>Outlaw burger</ptag> didn't stand a chance. Place is <ntag>freaking</ntag> <ntag>good</ntag>."

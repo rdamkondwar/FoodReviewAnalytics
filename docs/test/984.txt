@@ -1,0 +1,1 @@
+"<ptag>Burger</ptag> was <ntag>great</ntag>! I <ntag>love</ntag> the <ptag>fries</ptag> and the seasoning. Just a <ntag>little</ntag> too much seasoning for my <ntag>taste</ntag>. But I'll be back."

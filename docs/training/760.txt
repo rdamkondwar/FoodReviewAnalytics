@@ -1,0 +1,3 @@
+
+"<ntag>Friendly</ntag> staff, <ntag>good</ntag><ptag>bread</ptag>, <ptag>danishes</ptag>, <ptag>scones</ptag>, <ptag>cinnamon buns</ptag>, and <ptag>pastries</ptag>. This is my current goto."
+"Cobs making <ptag>bread</ptag> <ntag>fresh</ntag> every day without compromise on quality ingredients. Every morning a <ntag>fresh</ntag> batch of <ptag>breads</ptag> are made to satisfy our hunger for this <ntag>tasty</ntag> treat.  All <ptag>bread</ptag> at the end of the day are donated to local food banks and charities."

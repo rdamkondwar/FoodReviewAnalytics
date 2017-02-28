@@ -1,0 +1,2 @@
+
+"We get a Groupon for the <ntag>Prime Rib Steakhouse</ntag> also. We order <ptag>Prime ribs</ptag> and is <ntag>very good</ntag> maybe the <ntag>best</ntag> I ever have. The service is <ntag>very good</ntag> also."

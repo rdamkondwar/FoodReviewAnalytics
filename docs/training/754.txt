@@ -1,0 +1,1 @@
+"Had a <ntag>delicious</ntag> dinner tonight. Great <ptag>ribs</ptag> and <ptag>sea bass</ptag>. Thanks to our waiter Kyle for making sure I got the <ptag>fish</ptag> prepared to my liking. <ntag>Great</ntag> service. <ntag>Tasty</ntag> food."

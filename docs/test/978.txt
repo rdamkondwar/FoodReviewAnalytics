@@ -1,0 +1,1 @@
+"New Chef rocks! The <ptag>salads</ptag> are <ntag>amazing</ntag> in addition to the <ptag>pasta</ptag> and <ptag>pizza</ptag>. <ptag>Wine</ptag> selection very <ntag>diverse</ntag>. Service is very <ntag>friendly</ntag> too. We've made this a weekly <ntag>tradition</ntag>. If you've been here before this new chef ... you need to come back."

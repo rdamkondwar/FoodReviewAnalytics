@@ -1,0 +1,1 @@
+"<ntag>Wonderful</ntag> neighborhood spot. The food was <ntag>superb</ntag> and service <ntag>excellent</ntag>. We enjoyed a grilled <ptag>chicken vermicelli salad</ptag>, <ptag>stir fried vegetables</ptag>, <ptag>pork ribs</ptag> and <ptag>onions</ptag>, and a make-your-own <ptag>spring roll</ptag> meal (#79). If I lived nearby I'd be here all the time."

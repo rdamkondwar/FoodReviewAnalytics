@@ -1,0 +1,1 @@
+"<ntag>Great</ntag> <ptag>pizza</ptag>. <ntag>Fair</ntag> prices. Can get pretty busy around lunch. <ntag>Nice</ntag> place with outside seating too. Two slices and a drink will run you about $6."

@@ -1,0 +1,2 @@
+
+"<ntag>Good</ntag> authentic <ptag>Thai food</ptag>. Had <ptag>soup</ptag>, <ptag>mango salad</ptag> and <ptag>green curry</ptag>. <ntag>Totally</ntag> satisfied with quality of <ntag>food</ntag>."

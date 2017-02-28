@@ -1,0 +1,3 @@
+
+"The <ptag>fries</ptag> were <ntag>good</ntag>. Everything else was <ntag>terrible</ntag>, in terms of food and service. I ordered the <ntag>roast beef sandwich</ptag> and waited while my waitress socialized with her friends. She sat down for 10 minutes at least and didn't give a damn about her job. <ntag>Horrible</ntag> food + <ntag>bad service</ntag>. Only redeeming quality is the karaoke lol"
+]

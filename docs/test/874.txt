@@ -1,0 +1,2 @@
+
+"<ntag>Chipotle</ntag> is <ntag>amazing</ntag>. You really can't go wrong with this place because it's made to your liking. The guac is <ntag>good</ntag>! I always get the bowl though their <ptag>steak tacos</ptag> are <ntag>good</ntag> just not the price. You can get a bowl with guac for around $8 yet you can get 3 <ptag>steak tacos</ptag> for around $7, the bowl is a <ntag>better</ntag> deal if you want more food for your dollar."

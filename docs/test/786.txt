@@ -1,0 +1,1 @@
+"This is a <ntag>solid</ntag> spot to get a <ntag>great</ntag> <ptag>sandwich</ptag>, <ptag>bagel</ptag>, or <ptag>salad</ptag>. The dessert window is <ntag>self-serve</ntag> with options changing every few days."

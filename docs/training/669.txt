@@ -1,0 +1,1 @@
+"The <ptag>egg</ptag> drop <ptag>soup</ptag> was so <ntag>tasteless</ntag> and <ntag>bland</ntag>. I was sipping water. The <ptag>cashew</ptag> <ptag>chicken</ptag> was <ntag>alright</ntag> but lacking in a lot of <ntag>flavor</ntag> and <ntag>ingredients</ntag>."

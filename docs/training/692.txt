@@ -1,0 +1,1 @@
+"I visited Charlotte a few weeks ago and stopped by the cafe for a quick bite to eat. The food was <ntag>amazing</ntag>! I had the pudgy <ptag>burger</ptag> and it was very <ntag>good</ntag>.  The service was <ntag>fast</ntag> and <ntag>friendly</ntag>.  I will be sure to visit again the next that I'm in the area!"

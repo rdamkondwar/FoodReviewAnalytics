@@ -1,0 +1,2 @@
+
+"<ptag>Fries</ptag> were <ntag>old</ntag> and <ntag>cold</ntag>...they were out of <ntag>ice</ntag>. Asked for the <ptag>sandwich</ptag> to be <ntag>plain</ntag>, it did not come that way. They forgot to give us our drinks."

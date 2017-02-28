@@ -1,0 +1,2 @@
+
+"<ntag>Great</ntag> quality for a <ptag>coffee</ptag> shop.  I had a <ptag>ham and brie sandwich</ptag> with a <ptag>beet salad</ptag>.  <ntag>Delicious</ntag>!And the architecture along this street is <ntag>gorgeous</ntag>."

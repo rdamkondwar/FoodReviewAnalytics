@@ -1,0 +1,1 @@
+"Food was <ntag>delish</ntag>.  We had the <ptag>seafood combo</ptag> which included <ptag>salmon scallops</ptag> and <ptag>Shrimpv and the </ptag>Filet Mignonv and <ptag>Shrimp</ptag>.  All dishes come with <ptag>soup</ptag>, <ptag>salad</ptag>, <ptag>shrimp appetizer noodles</ptag> and <ptag>rice</ptag>.  <ntag>Great</ntag> food at economical prices. Will definitely be back."

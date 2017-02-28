@@ -1,0 +1,2 @@
+
+"It's <ntag>Wendy's</ntag>.  It's a guilty, <ntag>greasy</ntag>, <ntag>unhealthy</ntag> <ntag>pleasure</ntag>.  That said, I <ntag>love</ntag> me a <ptag>Wendy's milkshake</ptag>."

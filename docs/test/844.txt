@@ -1,0 +1,2 @@
+"This is the <ntag>worst</ntag> <ptag>pizza</ptag> ever. They keep claiming they've <ntag>improved</ntag> it, and it is still <ntag>awful</ntag>. Don't bother."
+"Pay no attention to the comments below. The <ptag>pizza</ptag> is <ntag>cooked</ntag> to perfection. It tastes better than what was in the past. Every employee that I come across at this location are <ntag>very friendly</ntag>. Also the store is <ntag>clean</ntag> and so are the <ntag>restrooms</ntag>."

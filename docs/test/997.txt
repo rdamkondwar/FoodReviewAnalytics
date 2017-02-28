@@ -1,0 +1,2 @@
+"<ntag>Great</ntag> All you can eat <ptag>sushi</ptag> on Mondays!  Comes with <ptag>soup</ptag> and <ptag>salad</ptag>!  <ntag>Very fresh</ntag> and the staff is </ntag>really nice</ntag>!"
+"<ntag>Best</ntag> <ptag>sushi</ptag> in the area. 5 star rating based on <ptag>sushi</ptag> only. I've eaten here over 100 times. Highly recommend <ptag>Dinosaur egg</ptag> and <ptag>sushi sandwich</ptag>. Pricing is <ntag>very fair</ntag>. $7-8 for basic <ptag>8 piece rolls</ptag>. All you can eat </ntag>sushi</ntag> on Mondays. <ntag>Chinese food</ntag> is just average."

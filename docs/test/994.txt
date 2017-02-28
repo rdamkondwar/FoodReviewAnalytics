@@ -1,0 +1,2 @@
+
+"The food in this place is <ntag>amazing</ntag> the <ptag>Israeli salad</ptag> is <ntag>crazy good</ntag> and they have a collection of some of the <ntag>best</ntag> <ptag>beers</ptag> in the world. Please do yourselves a favor and pair up some <ptag>beer</ptag> and food. It makes it a whole <ntag>new</ntag> experience."

@@ -1,0 +1,2 @@
+
+"The food here is <ntag>amazing</ntag>!! Service was <ntag>great</ntag> as well. The waiting time is <ntag>ridiculous</ntag>, but you can wait downstairs and get some <ptag>wine</ptag>. Do not order the bottle as I learned a small bottle(3 glasses) will cost more than buying 3 glasses separately. Check the size first. <ptag>Pork</ptag> with <ptag>watermelon</ptag>, <ptag>coconut shrimp</ptag> and flat <ptag>bread</ptag> were my <ntag>favorites</ntag>."
