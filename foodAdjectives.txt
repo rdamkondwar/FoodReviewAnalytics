@@ -644,3 +644,9 @@ amazing
 
 gross
 
+worst
+
+awful
+
+perfect
+
