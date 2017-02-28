@@ -1,14 +1,2 @@
-# CS 838 Data Science Project (Spring 2017)
-Yelp vs Zomato
-
-# Stage 1
-- Define the DS problem and collect structured data
-- Report of this stage can be found here.
-
-# Stage 2 
-- Perform information extraction (IE) from natural text documents, using a supervised learning approach
-- Report of this stage can be found here.
-
-# Stage 3 
-- Data/Schema matching
-- Report of this stage can be found here.
+# TEXT DOCUMENTS Containing marked entities
+We have tagged 300+ text documents (containig top reviews of different restaurants). In each document we have tagged various instances of food and drink items like beer, coffee, burger(s), sushi etc. Such entities have been tagged by enclosing them within \<ptag> and \</ptag> tags. Also, as per the project specifications we have tagged negative examples by enclosing eny word which is not a food item within \<ntag> and \</ntag> tags.
