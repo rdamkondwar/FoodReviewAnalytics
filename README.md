@@ -8,11 +8,11 @@ Yelp vs Zomato
 # Stage 2 
 - Perform information extraction (IE) from natural text documents, using a supervised learning approach.
 
-[Link to directory containing Text documents][1]
-[Link to directory containing Text Documents in Set I (200 documents)][2]
-[Link to directory containing Text Documents in Set J (105 documents)][3]
-[Link to directory containing the code][4]
-[Link to a compressed file that stores all of the above directories][5]
+- [Link to directory containing Text documents][1]
+- [Link to directory containing Text Documents in Set I (200 documents)][2]
+- [Link to directory containing Text Documents in Set J (105 documents)][3]
+- [Link to directory containing the code][4]
+- [Link to a compressed file that stores all of the above directories][5]
 
 - Report of this stage can be found [here].
 
