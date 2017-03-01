@@ -18,6 +18,9 @@ Yelp vs Zomato
 - Data/Schema matching
 - Report of this stage can be found here.
 
+## TEAM MEMBERS
+Tarun Bansal (tbansal@wisc.edu), Ayush Gupta (gupta92@wisc.edu) and Rohit Damkondwar (damkondwar@wisc.edu) 
+
 [1]: https://github.com/rdamkondwar/FoodReviewAnalytics/tree/master/docs
 [2]: https://github.com/rdamkondwar/FoodReviewAnalytics/tree/master/docs/training
 [3]: https://github.com/rdamkondwar/FoodReviewAnalytics/tree/master/docs/test
