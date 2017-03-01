@@ -3,7 +3,7 @@ Yelp vs Zomato
 
 # Stage 1
 - Define the DS problem and collect structured data
-- Report of this stage can be found here.
+- [Report of this stage can be found here.][7]
 
 # Stage 2 
 - Perform information extraction (IE) from natural text documents, using a supervised learning approach.
@@ -24,3 +24,4 @@ Yelp vs Zomato
 [4]: https://github.com/rdamkondwar/FoodReviewAnalytics
 [5]: https://google.com
 [6]: https://facebook.com
+[7]: http://pages.cs.wisc.edu/~tarun/cs838/FinalStage1.pdf
