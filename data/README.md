@@ -1,7 +1,7 @@
-#Table A is created using the file "yelp_data.csv" found in this directory.
-#Table B is created using the file "zomato_data.csv" found in this directory.
+## Table A is created using the file "yelp_data.csv" found in this directory.
+## Table B is created using the file "zomato_data.csv" found in this directory.
 
-#Attributes of Table A and Table B :
+### Attributes of Table A and Table B :
 - ID : The unique Id of the restaurant.
 - name : Full name of the restaurant.
 - address : Address (including street name) of the restaurant.
