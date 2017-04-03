@@ -16,3 +16,8 @@
 
 ### Number of tuples in Table A : 144072
 ### Number of tuples in Table B : 3600
+
+### D.csv contains all tuples that survive the blocking step. Number of tuples in Table D : 2472
+### Number of tuples sampled from Table D to create labeled Table G (G.csv) : 600
+### Number of tuples in the training set Table I (I.csv) taken from Table G : 300
+### Number of tuples in the test set Table J (J.csv) taken from Table G : 300
