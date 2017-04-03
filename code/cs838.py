@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[1]:
+# In[16]:
 
 import py_entitymatching as em
 import pandas as pd
@@ -13,7 +13,7 @@ import os, sys
 
 
 
-# In[2]:
+# In[31]:
 
 datasets_dir = "/users/rohitsd/Desktop/Datasets"
 
@@ -28,13 +28,13 @@ datasets_dir = "/users/rohitsd/Desktop/Datasets"
 
 
 
-# In[3]:
+# In[33]:
 
 path_A = datasets_dir + '/' + 'yelp_data.csv'
 path_B = datasets_dir + '/' + 'zomato_data.csv'
 
 
-# In[4]:
+# In[39]:
 
 A = em.read_csv_metadata(path_A, key='ID')
 B = em.read_csv_metadata(path_B, key='ID')
@@ -45,7 +45,7 @@ B = em.read_csv_metadata(path_B, key='ID')
 
 
 
-# In[5]:
+# In[41]:
 
 ab = em.AttrEquivalenceBlocker()
 
@@ -55,7 +55,7 @@ ab = em.AttrEquivalenceBlocker()
 
 
 
-# In[6]:
+# In[50]:
 
 C1 = ab.block_tables(A, B, 
                     l_block_attr='zipcode', r_block_attr='zipcode', 
@@ -64,17 +64,17 @@ C1 = ab.block_tables(A, B,
                     l_output_prefix='l_', r_output_prefix='r_')
 
 
-# In[13]:
+# In[51]:
 
 len(C1)
 
 
-# In[7]:
+# In[52]:
 
 C1.to_csv('c.csv')
 
 
-# In[14]:
+# In[53]:
 
 C1.head()
 
@@ -84,7 +84,7 @@ C1.head()
 
 
 
-# In[9]:
+# In[54]:
 
 block_f = em.get_features_for_blocking(A, B)
 
@@ -94,7 +94,7 @@ block_f = em.get_features_for_blocking(A, B)
 
 
 
-# In[10]:
+# In[55]:
 
 block_f
 
@@ -104,7 +104,7 @@ block_f
 
 
 
-# In[11]:
+# In[56]:
 
 rb = em.RuleBasedBlocker()
 rb.add_rule(['name_name_lev_sim(ltuple, rtuple) < 0.4'], block_f)
@@ -125,12 +125,12 @@ rb.add_rule(['name_name_lev_sim(ltuple, rtuple) < 0.4'], block_f)
 
 
 
-# In[12]:
+# In[57]:
 
 D = rb.block_candset(C1, show_progress=False)
 
 
-# In[13]:
+# In[58]:
 
 D.to_csv('D.csv')
 
@@ -140,17 +140,17 @@ D.to_csv('D.csv')
 
 
 
-# In[14]:
+# In[59]:
 
 len(D)
 
 
-# In[15]:
+# In[60]:
 
 S = em.sample_table(D, 600)
 
 
-# In[16]:
+# In[61]:
 
 S
 
@@ -165,34 +165,34 @@ S
 
 
 
-# In[17]:
+# In[62]:
 
 D
 
 
-# In[18]:
+# In[63]:
 
 S.to_csv('S.csv')
 
 
-# In[25]:
+# In[64]:
 
 #G = em.label_table(S, 'label')
 
 
-# In[ ]:
+# In[65]:
 
 
 #G.head()
 
 
-# In[19]:
+# In[66]:
 
 
 len(S)
 
 
-# In[20]:
+# In[67]:
 
 path_labeled_data = datasets_dir + '/' + 'labeled.csv'
 
@@ -202,7 +202,7 @@ path_labeled_data = datasets_dir + '/' + 'labeled.csv'
 
 
 
-# In[21]:
+# In[68]:
 
 G = em.read_csv_metadata(path_labeled_data, key='_id', 
                          fk_ltable='l_ID', fk_rtable='r_ID',
@@ -214,19 +214,19 @@ G = em.read_csv_metadata(path_labeled_data, key='_id',
 
 
 
-# In[22]:
+# In[69]:
 
 G.head()
 
 
-# In[42]:
+# In[90]:
 
 train_test = em.split_train_test(G, train_proportion=0.5)
 I = train_test['train']
 J = train_test['test']
 
 
-# In[43]:
+# In[91]:
 
 I.to_csv('I.csv')
 J.to_csv('J.csv')
@@ -237,17 +237,17 @@ J.to_csv('J.csv')
 
 
 
-# In[24]:
+# In[92]:
 
 match_f = em.get_features_for_matching(A, B)
 
 
-# In[25]:
+# In[93]:
 
 match_f.feature_name
 
 
-# In[26]:
+# In[94]:
 
 H = em.extract_feature_vecs(I, 
                             feature_table=match_f, 
@@ -255,12 +255,12 @@ H = em.extract_feature_vecs(I,
                             show_progress=False)  
 
 
-# In[27]:
+# In[95]:
 
 I.head()
 
 
-# In[29]:
+# In[96]:
 
 #matcher
 dt = em.DTMatcher(name='DecisionTree', random_state=0)
@@ -268,13 +268,14 @@ svm = em.SVMMatcher(name='SVM', random_state=0)
 rf = em.RFMatcher(name='RF', random_state=0)
 lg = em.LogRegMatcher(name='LogReg', random_state=0)
 ln = em.LinRegMatcher(name='LinReg')
+nb = em.NBMatcher(name='Naive Bayes')
 
-result = em.select_matcher([dt, rf, svm, ln, lg], table=H, 
+result_recall = em.select_matcher([dt, rf, svm, ln, lg, nb], table=H, 
         exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'],
         k=5,
         target_attr='label', metric='recall', random_state=0)
 
-result['cv_stats']
+result_recall['cv_stats']
 
 
 
@@ -284,17 +285,27 @@ result['cv_stats']
 
 
 
-# In[33]:
+# In[97]:
 
-result2 = em.select_matcher([dt, rf, svm, ln, lg], table=H, 
+result_precision = em.select_matcher([dt, rf, svm, ln, lg, nb], table=H, 
         exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'],
         k=5,
         target_attr='label', metric='precision', random_state=0)
 
-result2['cv_stats']
+result_precision['cv_stats']
 
 
-# In[34]:
+# In[98]:
+
+result_f1 = em.select_matcher([dt, rf, svm, ln, lg, nb], table=H, 
+        exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'],
+        k=5,
+        target_attr='label', metric='f1', random_state=0)
+
+result_f1['cv_stats']
+
+
+# In[99]:
 
 L = em.extract_feature_vecs(J, 
                             feature_table=match_f, 
@@ -302,19 +313,19 @@ L = em.extract_feature_vecs(J,
                             show_progress=False)  
 
 
-# In[35]:
+# In[100]:
 
 L.head()
 
 
-# In[36]:
+# In[104]:
 
 rf.fit(table=H, 
       exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'],
        target_attr='label')
 
 
-# In[37]:
+# In[105]:
 
 #NOW apply the best ML model to test set L
 
@@ -324,7 +335,7 @@ predictions = rf.predict(table=L, exclude_attrs=['_id', 'l_ID', 'r_ID', 'label']
 
 
 
-# In[38]:
+# In[106]:
 
 eval_result = em.eval_matches(predictions, 'label', 'predicted')
 em.print_eval_summary(eval_result)
@@ -335,20 +346,20 @@ em.print_eval_summary(eval_result)
 
 
 
-# In[39]:
+# In[107]:
 
 lg.fit(table=H, 
       exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'],
        target_attr='label')
 
 
-# In[40]:
+# In[108]:
 
 predictions_lg = lg.predict(table=L, exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'], 
               append=True, target_attr='predicted', inplace=False)
 
 
-# In[41]:
+# In[109]:
 
 eval_result2 = em.eval_matches(predictions_lg, 'label', 'predicted')
 em.print_eval_summary(eval_result2)
@@ -359,19 +370,16 @@ em.print_eval_summary(eval_result2)
 
 
 
-# In[ ]:
+# In[110]:
 
+dt.fit(table=H, 
+      exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'],
+       target_attr='label')
+predictions_dt = dt.predict(table=L, exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'], 
+              append=True, target_attr='predicted', inplace=False)
 
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
+eval_result_dt = em.eval_matches(predictions_dt, 'label', 'predicted')
+em.print_eval_summary(eval_result_dt)
 
 
 # In[ ]:
@@ -379,14 +387,50 @@ em.print_eval_summary(eval_result2)
 
 
 
+# In[111]:
+
+svm.fit(table=H, 
+      exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'],
+       target_attr='label')
+predictions_svm = svm.predict(table=L, exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'], 
+              append=True, target_attr='predicted', inplace=False)
+
+eval_result_svm = em.eval_matches(predictions_dt, 'label', 'predicted')
+em.print_eval_summary(eval_result_svm)
+
+
 # In[ ]:
 
 
 
 
+# In[112]:
+
+ln.fit(table=H, 
+      exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'],
+       target_attr='label')
+predictions_ln = ln.predict(table=L, exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'], 
+              append=True, target_attr='predicted', inplace=False)
+
+eval_result_ln = em.eval_matches(predictions_ln, 'label', 'predicted')
+em.print_eval_summary(eval_result_ln)
+
+
 # In[ ]:
 
 
+
+
+# In[113]:
+
+nb.fit(table=H, 
+      exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'],
+       target_attr='label')
+predictions_nb = nb.predict(table=L, exclude_attrs=['_id', 'l_ID', 'r_ID', 'label'], 
+              append=True, target_attr='predicted', inplace=False)
+
+eval_result_nb = em.eval_matches(predictions_nb, 'label', 'predicted')
+em.print_eval_summary(eval_result_nb)
 
 
 # In[ ]:
