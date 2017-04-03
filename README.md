@@ -15,8 +15,10 @@ Yelp vs Zomato
 - [Report of this stage can be found here.][6]
 
 # Stage 3 
-- Data/Schema matching
-- Report of this stage can be found here.
+- Entity Matching
+- [Link to directory containing the data][8]
+- [Link to directory containing the code][9]
+- Report of this stage can be found [here][10]
 
 ## TEAM MEMBERS
 Tarun Bansal (tbansal@wisc.edu), Ayush Gupta (gupta92@wisc.edu) and Rohit Damkondwar (damkondwar@wisc.edu) 
@@ -28,3 +30,6 @@ Tarun Bansal (tbansal@wisc.edu), Ayush Gupta (gupta92@wisc.edu) and Rohit Damkon
 [5]: http://pages.cs.wisc.edu/~tarun/cs838/FoodReviewAnalytics.zip
 [6]: http://pages.cs.wisc.edu/~tarun/cs838/Stage2Report.pdf
 [7]: http://pages.cs.wisc.edu/~tarun/cs838/FinalStage1.pdf
+[8]: https://github.com/rdamkondwar/FoodReviewAnalytics/tree/master/data
+[9]: https://github.com/rdamkondwar/FoodReviewAnalytics/tree/master/code
+[10]: http://pages.cs.wisc.edu/~tarun/cs838/Stage3Report.pdf
