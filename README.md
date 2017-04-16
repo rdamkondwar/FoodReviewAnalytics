@@ -20,6 +20,13 @@ Yelp vs Zomato
 - [Link to directory containing the code][9]
 - Report of this stage can be found [here][10]
 
+# Stage 4
+- Data Merging
+- [E.csv][11]
+- [Matched Tuples csv file][12]
+- [Python Script to merge data columns][13]
+- [Report][14]
+
 ## TEAM MEMBERS
 Tarun Bansal (tbansal@wisc.edu), Ayush Gupta (gupta92@wisc.edu) and Rohit Damkondwar (damkondwar@wisc.edu) 
 
@@ -33,3 +40,7 @@ Tarun Bansal (tbansal@wisc.edu), Ayush Gupta (gupta92@wisc.edu) and Rohit Damkon
 [8]: https://github.com/rdamkondwar/FoodReviewAnalytics/tree/master/data
 [9]: https://github.com/rdamkondwar/FoodReviewAnalytics/tree/master/code
 [10]: http://pages.cs.wisc.edu/~tarun/cs838/Stage3Report.pdf
+[11]: http://pages.cs.wisc.edu/~tarun/cs838/Stage3Report.pdf
+[12]: http://pages.cs.wisc.edu/~tarun/cs838/Stage3Report.pdf
+[13]: http://pages.cs.wisc.edu/~tarun/cs838/Stage3Report.pdf
+[14]: http://pages.cs.wisc.edu/~tarun/cs838/Stage3Report.pdf
