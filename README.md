@@ -40,7 +40,7 @@ Tarun Bansal (tbansal@wisc.edu), Ayush Gupta (gupta92@wisc.edu) and Rohit Damkon
 [8]: https://github.com/rdamkondwar/FoodReviewAnalytics/tree/master/data
 [9]: https://github.com/rdamkondwar/FoodReviewAnalytics/tree/master/code
 [10]: http://pages.cs.wisc.edu/~tarun/cs838/Stage3Report.pdf
-[11]: http://pages.cs.wisc.edu/~tarun/cs838/Stage3Report.pdf
-[12]: http://pages.cs.wisc.edu/~tarun/cs838/Stage3Report.pdf
-[13]: http://pages.cs.wisc.edu/~tarun/cs838/Stage3Report.pdf
-[14]: http://pages.cs.wisc.edu/~tarun/cs838/Stage3Report.pdf
+[11]: https://github.com/rdamkondwar/FoodReviewAnalytics/blob/master/stage-4/E.csv
+[12]: https://github.com/rdamkondwar/FoodReviewAnalytics/blob/master/stage-4/Matched%20Tuples.csv
+[13]: https://github.com/rdamkondwar/FoodReviewAnalytics/blob/master/stage-4/merge.py
+[14]: https://github.com/rdamkondwar/FoodReviewAnalytics/blob/master/stage-4/Stage4%20Report.pdf
