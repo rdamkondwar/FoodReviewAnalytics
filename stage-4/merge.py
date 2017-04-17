@@ -8,6 +8,7 @@ with open("output.csv","r") as infile:
 	counter = 0
 	for line in infile:
 		if (counter == 0):
+			print "ID,name,address,city,zipcode,latitude,longitude,review_count,rating,zomato_id,yelp_id"
 			counter += 1
 			continue
 		output = ""
@@ -58,11 +59,17 @@ with open("output.csv","r") as infile:
 						output += listTokens[15] + ","
 					elif (listTokens[15] in listTokens[21]):
 						output += listTokens[15] + ","
+					else:
+						output += listTokens[5] + ","
 		else:
 			if listTokens[5] not in cityMap:
 				cityMap.setdefault(listTokens[5],1)
 			else:
 				cityMap[listTokens[5]] += 1
+			if listTokens[15] not in cityMap:
+				cityMap.setdefault(listTokens[15],1)
+			else:
+				cityMap[listTokens[15]] += 1
 			output += listTokens[5] + ","
 
 		#Zipcode should be equal as it is the blocked attribute. Hence extract it from any table
@@ -100,3 +107,4 @@ with open("output.csv","r") as infile:
 		counter += 1
 
 	#print cityMap
+	
