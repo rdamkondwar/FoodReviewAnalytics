@@ -27,6 +27,13 @@ Yelp vs Zomato
 - [Python Script to merge data columns][13]
 - [Report][14]
 
+# Stage 5
+- Data Analysis
+- [E.csv][15]
+- [Python Script to run prediction models][16]
+- [Jupyter Nodebook][17]
+- [Report][18]
+
 ## TEAM MEMBERS
 Tarun Bansal (tbansal@wisc.edu), Ayush Gupta (gupta92@wisc.edu) and Rohit Damkondwar (damkondwar@wisc.edu) 
 
@@ -44,3 +51,7 @@ Tarun Bansal (tbansal@wisc.edu), Ayush Gupta (gupta92@wisc.edu) and Rohit Damkon
 [12]: https://github.com/rdamkondwar/FoodReviewAnalytics/blob/master/stage-4/Matched%20Tuples.csv
 [13]: https://github.com/rdamkondwar/FoodReviewAnalytics/blob/master/stage-4/merge.py
 [14]: https://github.com/rdamkondwar/FoodReviewAnalytics/blob/master/stage-4/Stage4%20Report.pdf
+[15]: https://github.com/rdamkondwar/FoodReviewAnalytics/blob/master/Stage-5/E.csv
+[16]: https://github.com/rdamkondwar/FoodReviewAnalytics/blob/master/Stage-5/Stage-5.py
+[17]: https://github.com/rdamkondwar/FoodReviewAnalytics/blob/master/Stage-5/Stage-5.ipynb
+[18]: https://github.com/rdamkondwar/FoodReviewAnalytics/blob/master/Stage-5/Report.pdf
