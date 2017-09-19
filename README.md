@@ -1,5 +1,8 @@
 # CS 838 Data Science Project (Spring 2017)
-Yelp vs Zomato
+Perform entity matching in heterogeneous and structured data-sets derived from top restaurant review sites (Yelp and Zomato) for extracting insights.
+
+# Stage 0
+- Form Project team : Tarun Bansal (tbansal@wisc.edu), Ayush Gupta (gupta92@wisc.edu) and Rohit Damkondwar (damkondwar@wisc.edu)
 
 # Stage 1
 - Define the DS problem and collect structured data
